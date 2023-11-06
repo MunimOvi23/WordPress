@@ -1,0 +1,170 @@
+/*================= Hi-res laptops and desktops================= */
+@media (min-width: 1200px) and (max-width: 1399px) {	
+	/* Team Section */
+	.singel-team {
+		padding: 30px 15px;
+	}
+	.offcanvas {
+		padding: 45px 45px 35px 35px;
+	}
+}
+
+/*================ Normal desktop :992px.==================== */
+@media (min-width: 992px) and (max-width: 1199px) {
+	.container{width:960px}
+	.top-social a {padding: 8px 16px;}
+	.top-contacts a {padding: 8px 0px;}
+	/*Logo*/
+	.main-header {padding: 15px 0;}
+	.kunty-nav ul.menu > li > a {
+		padding: 15px 20px;
+	}
+	.offcanvas {
+		padding: 45px 45px 35px 35px;
+	}
+	.offcanvas hr {
+		margin: 15px 0 30px;
+	}
+	.pl-lg-3 {
+		padding-left: 0;
+	}
+
+	/* CAT Section */
+	.cta-inner {
+		padding: 75px 130px;
+	}
+
+}
+/*================ Tablet desktop :768px.==================*/
+@media (min-width: 768px) and (max-width: 991px) {
+	.container{width:92%}
+	.top-social a {padding: 8px 16px;}
+	.top-contacts a {padding: 8px 0px;}
+
+	.menu-wrap {display: none !important;}
+	.main-header{padding: 15px 0;}
+	.scroll-header .site-logo .site-title {padding-top: 14px;}
+
+	.pl-lg-3 {
+		padding-left: 0%;
+	}
+	.offcanvas {padding: 45px 40px 35px 35px;width:420px;}
+	
+}
+/*================== small mobile :320px. ===================*/
+@media (max-width: 767px) {
+
+	.site {padding: 70px 0 30px;}
+	.container {width: 88%;}
+
+	/* Global */
+	h2 {font-size: 30px;}
+	h3 {font-size: 27px;}
+	h4 {font-size: 23px;}
+	h5 {font-size: 20px;}
+	h6 {font-size: 16px;}
+
+	/*Header*/
+	.admin-bar .fixed-header .main-header {
+		top: 0;
+	}
+	.main-header {padding: 12px 0;}
+	.menu-wrap {display: none !important;}
+	.sidenav-wrap {width: 100%;}
+
+	.banner-content {
+		padding-top: 100px;
+		min-height: 280px;
+	}
+	
+	/* Offcanvas Nav */
+	.offcanvas {
+		padding: 50px 25px 35px 25px;
+	}
+	.offcan-desc p {
+		font-size: 16px;
+	}
+	.offcanvas hr {
+		margin: 18px 0 20px;
+	}
+	.offcan-contacts .icon-desc {
+		font-size: 18px;
+	}
+	/* Section Title */
+	.section-area {
+		padding: 60px 0 35px;
+	}
+	.section-title h2 {
+		font-size: 28px;
+	}
+	.section-title .sub-title {
+		margin-bottom: 13px;
+	}
+	/* Hero Section */
+	.hero-area {
+		padding: 60px 0 25px;
+	}
+	.hero-content h2 {
+		font-size: 28px;
+	}
+	.hero-content p {
+		font-size: 19px;
+	}
+
+	/* Service Section */
+	.service-section {
+		background-size: 88px;
+	}
+	.icon-box {
+		margin-bottom: 65px;
+	}
+
+	/* Intro Section */
+	.intro-heading h2 {
+		font-size: 28px;
+	}
+	.intro-fact .numb {
+		font-size: 32px;
+	}
+
+	/* Feedback */
+	.pl-lg-3 {
+		padding-left: 0;
+	}
+
+	/* Call to Action Section */
+	.cta-inner {
+		padding: 45px 20px;
+	}
+	.cta-inner h2 {
+		font-size: 28px;
+		margin-bottom: 35px;
+	}
+	.cta-inner::before,.cta-inner::after {
+		display: none;
+	}
+
+
+	/*Footer*/
+	.widget-title {margin-bottom: 15px;}
+	.social-links {margin-bottom: 100px;}
+	.widget.contact-widget > ul {margin: 0 0 35px;}
+	.widget.widget-link > ul {margin: 0 20px 180px 0;}
+	.copy-right-area {margin-top: 35px;}
+	
+	#scrollup.active {
+		right: 10px;
+		bottom: 35px;
+	}
+
+}
+/* ======================Large Mobile :480px.================== */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.container {width: 80%;}
+	.page-numbers a, .page-numbers .current {padding: 11px 16px;}
+	/* Offcanvas */
+	.offcanvas {padding: 50px 25px 35px 25px;}
+	
+	
+
+}

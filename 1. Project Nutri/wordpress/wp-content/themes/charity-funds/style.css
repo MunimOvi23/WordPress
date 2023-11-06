@@ -1,0 +1,136 @@
+/*
+Theme Name: Charity Funds
+Template: prime-charity-trust
+Text Domain: charity-funds
+Author: themeignite
+Author URI: https://themeignite.com/
+Theme URI: https://www.themeignite.com/products/free-charity-funds-wordpress-theme/
+Description: The Charity Funds WordPress theme is a versatile and visually appealing template designed specifically for nonprofit organizations and charitable causes. It offers a user-friendly interface and a range of customization options, allowing users to easily create a professional and engaging website to promote their charitable initiatives, collect donations, share stories, and connect with supporters. With its responsive design and integrated donation features, this theme empowers nonprofits to effectively raise funds and create a positive impact in their communities.
+Version: 1.1
+Tested up to: 6.3
+Requires PHP: 7.4
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Tags: translation-ready, custom-background, theme-options, custom-menu, threaded-comments, featured-image-header, featured-images, flexible-header, footer-widgets, left-sidebar, editor-style, right-sidebar, full-width-template, two-columns, custom-colors, custom-header, custom-logo, sticky-post, blog, e-commerce, portfolio
+*/
+
+/*--------------------------------------------------------------
+# General
+--------------------------------------------------------------*/
+
+#button,#featured-cause .button-content a, #featured-posts .read-more a,.main-navigation ul ul li:hover > a, .main-navigation ul ul li.focus > a,#featured-posts .entry-meta,button, input[type="button"], input[type="reset"], input[type="submit"],.tags-links a,.widget_tag_cloud .tagcloud a,#colophon .widget_search form.search-form button.search-submit,.woocommerce ul.products li.product .button, .woocommerce ul.products li.product a.added_to_cart.wc-forward, .woocommerce .woocommerce-message .button, .woocommerce div.product form.cart .button, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt,.woocommerce span.onsale,.social-links a:hover, .social-links a:focus,#featured-slider .read-more a.btn,#featured-cause .cause-tags a,.btn,#featured-slider .slick-prev:hover, #featured-slider .slick-next:hover,.site-menu,.reply a{
+	background-color: #1abc9c;
+}
+
+a,#featured-slider .read-more a.btn i, #featured-cause .button-content a i, #featured-posts .read-more a i,.entry-title a:hover, .entry-title a:focus,.main-navigation ul.nav-menu li ul .current_page_item > a, .main-navigation ul.nav-menu li ul .current-menu-item > a, .main-navigation ul.nav-menu li ul .current_page_ancestor > a, .main-navigation ul.nav-menu li ul .current-menu-ancestor > a, .main-navigation ul.nav-menu > li:hover > a, .main-navigation ul.nav-menu > li.focus > a,.post-navigation a:hover, .posts-navigation a:hover, .post-navigation a:focus, .posts-navigation a:focus,.entry-meta a:hover, .entry-meta a:focus,.entry-meta a, .entry-meta span:before, .entry-meta .cat-links:before, .entry-meta .author:before,#secondary a:hover, #secondary a:focus,#colophon a:hover, #colophon a:focus,.woocommerce ul.products li.product .price,.woocommerce-message::before, .woocommerce div.product p.price,.top-header p i,.top-header a:hover,#featured-mission .button-content a.btn i,#colophon .site-info a:hover, #colophon .site-info a:focus{
+	color: #1abc9c;
+}
+
+.main-navigation ul.nav-menu .current_page_item > a, .main-navigation ul.nav-menu .current-menu-item > a, .main-navigation ul.nav-menu .current_page_ancestor > a, .main-navigation ul.nav-menu .current-menu-ancestor > a, .main-navigation ul.nav-menu > li:hover > a, .main-navigation ul.nav-menu > li.focus > a{
+    color: #000;
+}
+
+body{
+	background-color: transparent;
+}
+
+.donate-btn a{
+    background-color: #000;
+}
+
+#featured-cause {
+    background-color: #e6f7f4;
+}
+
+#featured-cause .fund-box {
+    margin-bottom: 0;
+    padding: 10px;
+    background: rgb(26 188 156 / 70%);
+    border-radius: 0 0 10px 10px;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
+
+#featured-cause .fund-box span {
+    color: #fff;
+    font-weight: bold;
+}
+
+#featured-cause .fund-box span.first-word {
+    font-weight: bold;
+}
+
+#featured-cause .donate-slider .slide-inner{
+    background: #000;
+}
+
+#featured-cause .donate-slider .slide-inner:after{
+    border: 3px solid #000;
+}
+
+#featured-slider .entry-container {
+    left: 35%;
+    right: 35%;
+    text-align: center;
+    background: rgb(255 255 255 / 25%);
+    padding: 20px;
+}
+
+#featured-slider .entry-title {
+    padding-left: 0;
+    border-left: none;
+}
+
+.slid-content {
+    background: #fff;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: #fff;
+    backdrop-filter: blur(10px);
+}
+
+.overlay {
+    opacity: 0;
+}
+
+.site-menu a:focus, #colophon a:focus{
+    outline-color: #000;
+}
+
+/*--------------------------------------------------------------
+# Accessibility
+--------------------------------------------------------------*/
+/* Text meant only for screen readers. */
+.screen-reader-text {
+    clip: rect(1px, 1px, 1px, 1px);
+    position: absolute !important;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+    word-wrap: normal !important; /* Many screen reader and browser combinations announce broken words as they would appear visually. */
+}
+
+.screen-reader-text:focus {
+    background-color: #f1f1f1;
+    border-radius: 3px;
+    box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+    clip: auto !important;
+    color: #21759b;
+    display: block;
+    font-size: 14px;
+    font-size: 0.875rem;
+    font-weight: bold;
+    height: auto;
+    left: 5px;
+    line-height: normal;
+    padding: 15px 23px 14px;
+    text-decoration: none;
+    top: 5px;
+    width: auto;
+    z-index: 100000; /* Above WP toolbar. */
+}
+
+/* Do not show the outline on the skip link target. */
+#content[tabindex="-1"]:focus {
+    outline: 0;
+}

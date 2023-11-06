@@ -1,0 +1,3042 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-10 00:20+0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: 404.php:26
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:28
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Comments on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:72
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:50
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:51
+msgid "Sidebar Menu"
+msgstr ""
+
+#: functions.php:52
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:144
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:146 functions.php:157 functions.php:193 functions.php:203
+#: functions.php:213 functions.php:223
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:155
+msgid "Page Sidebar"
+msgstr ""
+
+#: functions.php:168
+msgid "Shop Page Sidebar"
+msgstr ""
+
+#: functions.php:170
+msgid "Appears on shop page"
+msgstr ""
+
+#: functions.php:179
+msgid "Single Product Page Sidebar"
+msgstr ""
+
+#: functions.php:180
+msgid "Appears on single product page"
+msgstr ""
+
+#: functions.php:191
+msgid "Footer Widget 1"
+msgstr ""
+
+#: functions.php:201
+msgid "Footer Widget 2"
+msgstr ""
+
+#: functions.php:211
+msgid "Footer Widget 3"
+msgstr ""
+
+#: functions.php:221
+msgid "Footer Widget 4"
+msgstr ""
+
+#: header.php:27
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:100 inc/customizer/theme-options/options-header.php:419
+msgid "Get Started"
+msgstr ""
+
+#: single.php:54
+msgid "Next Post"
+msgstr ""
+
+#: single.php:56
+msgid "Previous Post"
+msgstr ""
+
+#: inc/template-functions.php:218 inc/template-functions.php:401
+#: inc/template-functions.php:420 inc/template-functions.php:439
+#: inc/template-functions.php:460 inc/template-functions.php:479
+#: inc/template-functions.php:496
+msgid "Home"
+msgstr ""
+
+#: inc/template-functions.php:219
+msgid "Add Menu"
+msgstr ""
+
+#: inc/template-functions.php:271
+#: inc/customizer/theme-options/options-offcanvas.php:33
+msgid ""
+"Kunty - A fully responsive WordPress theme, suited for a corporate, "
+"consultant and business website."
+msgstr ""
+
+#: inc/template-functions.php:274
+#: inc/customizer/theme-options/options-offcanvas.php:124
+msgid "Labony Super Marker, Sapahar, BD"
+msgstr ""
+
+#: inc/template-functions.php:318
+msgid "Get In Touch"
+msgstr ""
+
+#: inc/template-functions.php:326
+msgid "E-Mail"
+msgstr ""
+
+#: inc/template-functions.php:340 page-templates/template-contact.php:10
+msgid "Phone"
+msgstr ""
+
+#: inc/template-functions.php:354
+#: inc/customizer/contact/options-contact.php:145
+#: inc/customizer/contact/options-contact.php:171
+#: inc/customizer/theme-options/options-offcanvas.php:130
+#: page-templates/template-contact.php:16
+msgid "Location"
+msgstr ""
+
+#: inc/template-functions.php:384 inc/template-functions.php:403
+#: inc/template-functions.php:422 inc/template-functions.php:462
+#: inc/customizer/theme-options/options-blog.php:20
+msgid "Blog"
+msgstr ""
+
+#: inc/template-functions.php:466
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/template-functions.php:481
+msgid "Archive"
+msgstr ""
+
+#: inc/template-functions.php:498
+msgid "404"
+msgstr ""
+
+#: inc/template-functions.php:500
+msgid "Error 404"
+msgstr ""
+
+#: inc/template-tags.php:96
+msgid "Share On: "
+msgstr ""
+
+#: inc/template-tags.php:119
+msgid "Post Tags: "
+msgstr ""
+
+#: inc/theme-actions.php:190
+msgid "Y"
+msgstr ""
+
+#: inc/theme-actions.php:190
+msgid "All Rights Reserved."
+msgstr ""
+
+#: inc/woocommerce-fuctions.php:49
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/customizer/functions.php:30
+msgid "--Select--"
+msgstr ""
+
+#: inc/customizer/functions.php:62
+msgid "Follow me on Dribbble"
+msgstr ""
+
+#: inc/customizer/functions.php:63
+msgid "Like me on Facebook"
+msgstr ""
+
+#: inc/customizer/functions.php:64
+msgid "Connect with me on Flickr"
+msgstr ""
+
+#: inc/customizer/functions.php:65
+msgid "Fork me on GitHub"
+msgstr ""
+
+#: inc/customizer/functions.php:66
+msgid "Follow me on Instagram"
+msgstr ""
+
+#: inc/customizer/functions.php:67
+msgid "Connect with me on LinkedIn"
+msgstr ""
+
+#: inc/customizer/functions.php:68
+msgid "Follow me on Pinterest"
+msgstr ""
+
+#: inc/customizer/functions.php:69
+msgid "Connect with me on Google+"
+msgstr ""
+
+#: inc/customizer/functions.php:70
+msgid "Join me on Reddit"
+msgstr ""
+
+#: inc/customizer/functions.php:71
+msgid "Follow me on SoundCloud"
+msgstr ""
+
+#: inc/customizer/functions.php:72
+msgid "Join me on Stack Overflow"
+msgstr ""
+
+#: inc/customizer/functions.php:73
+msgid "Follow me on Tumblr"
+msgstr ""
+
+#: inc/customizer/functions.php:74
+msgid "Follow me on Twitter"
+msgstr ""
+
+#: inc/customizer/functions.php:75
+msgid "Follow me on Vimeo"
+msgstr ""
+
+#: inc/customizer/functions.php:76
+msgid "Subscribe to me on YouTube"
+msgstr ""
+
+#: inc/customizer/contact/options-contact.php:12
+msgid "Contact Page Settings"
+msgstr ""
+
+#: inc/customizer/contact/options-contact.php:19
+msgid "Contact Details"
+msgstr ""
+
+#: inc/customizer/contact/options-contact.php:29
+#: page-templates/template-contact.php:9
+msgid "Contact Info"
+msgstr ""
+
+#: inc/customizer/contact/options-contact.php:38
+#: inc/customizer/contact/options-contact.php:196
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer/contact/options-contact.php:47
+msgid "Call Us"
+msgstr ""
+
+#: inc/customizer/contact/options-contact.php:56
+msgid "Phone Label"
+msgstr ""
+
+#: inc/customizer/contact/options-contact.php:64
+#: inc/customizer/contact/options-contact.php:81
+#: page-templates/template-contact.php:11
+#: page-templates/template-contact.php:12
+msgid "+7(123) 9876 543"
+msgstr ""
+
+#: inc/customizer/contact/options-contact.php:72
+msgid "Phone 1 Number"
+msgstr ""
+
+#: inc/customizer/contact/options-contact.php:89
+msgid "Phone 2 number"
+msgstr ""
+
+#: inc/customizer/contact/options-contact.php:98
+msgid "Email Us"
+msgstr ""
+
+#: inc/customizer/contact/options-contact.php:107
+msgid "Mail Address Label"
+msgstr ""
+
+#: inc/customizer/contact/options-contact.php:121
+msgid "Email 1 Address"
+msgstr ""
+
+#: inc/customizer/contact/options-contact.php:136
+msgid "Email 2 Address"
+msgstr ""
+
+#: inc/customizer/contact/options-contact.php:154
+msgid "Location Label"
+msgstr ""
+
+#: inc/customizer/contact/options-contact.php:163
+#: page-templates/template-contact.php:17
+msgid "Warnwe Park Streetperrine, FL 33157 New York City"
+msgstr ""
+
+#: inc/customizer/contact/options-contact.php:179
+msgid "Contact Form"
+msgstr ""
+
+#: inc/customizer/contact/options-contact.php:187
+#: inc/customizer/front-page/options-hero.php:244
+#: page-templates/template-contact.php:18
+msgid "Get in Touch"
+msgstr ""
+
+#: inc/customizer/contact/options-contact.php:213
+msgid "Contact Form 7 Shortcode"
+msgstr ""
+
+#: inc/customizer/contact/options-contact.php:214
+msgid "Please generate the shortcode from contact form 7 widget"
+msgstr ""
+
+#: inc/customizer/contact/options-contact.php:222
+msgid "Contact Map"
+msgstr ""
+
+#: inc/customizer/contact/options-contact.php:238
+msgid "Embeded Google Map"
+msgstr ""
+
+#: inc/customizer/controls/custom-controls.php:419
+msgid "Add"
+msgstr ""
+
+#: inc/customizer/controls/custom-controls.php:666
+msgid "Font Weight"
+msgstr ""
+
+#: inc/customizer/controls/custom-controls.php:1324
+msgid "You must supply a valid number."
+msgstr ""
+
+#: inc/customizer/controls/custom-controls.php:1326
+msgid "Minimum time of duration is 1000"
+msgstr ""
+
+#: inc/customizer/controls/custom-controls.php:1328
+msgid "Maximum time of duration is 20000"
+msgstr ""
+
+#: inc/customizer/controls/repeater/class-control-repeater.php:75
+msgid "row"
+msgstr ""
+
+#: inc/customizer/controls/repeater/class-control-repeater.php:84
+#, php-format
+msgid "Add new %s"
+msgstr ""
+
+#: inc/customizer/controls/repeater/class-control-repeater.php:241
+#, php-format
+msgid "Limit: %s rows"
+msgstr ""
+
+#: inc/customizer/controls/repeater/class-control-repeater.php:371
+msgid "Hex Value"
+msgstr ""
+
+#: inc/customizer/controls/repeater/class-control-repeater.php:396
+#: inc/customizer/controls/repeater/class-control-repeater.php:401
+msgid "No Image Selected"
+msgstr ""
+
+#: inc/customizer/controls/repeater/class-control-repeater.php:406
+#: inc/customizer/controls/repeater/class-control-repeater.php:471
+msgid "Remove"
+msgstr ""
+
+#: inc/customizer/controls/repeater/class-control-repeater.php:407
+#: inc/customizer/controls/repeater/class-control-repeater.php:411
+msgid "Add Image"
+msgstr ""
+
+#: inc/customizer/controls/repeater/class-control-repeater.php:407
+#: inc/customizer/controls/repeater/class-control-repeater.php:409
+msgid "Change Image"
+msgstr ""
+
+#: inc/customizer/controls/repeater/class-control-repeater.php:432
+#: inc/customizer/controls/repeater/class-control-repeater.php:437
+msgid "No File Selected"
+msgstr ""
+
+#: inc/customizer/controls/repeater/class-control-repeater.php:443
+#: inc/customizer/controls/repeater/class-control-repeater.php:447
+msgid "Add File"
+msgstr ""
+
+#: inc/customizer/controls/repeater/class-control-repeater.php:443
+#: inc/customizer/controls/repeater/class-control-repeater.php:445
+msgid "Change File"
+msgstr ""
+
+#: inc/customizer/front-page/options-brands.php:9
+msgid "Brands Logo Section"
+msgstr ""
+
+#: inc/customizer/front-page/options-brands.php:25
+msgid "Show/hide Brands Section"
+msgstr ""
+
+#: inc/customizer/front-page/options-brands.php:26
+msgid "Turn On/Off the switch to show/hide brands logo section on front page."
+msgstr ""
+
+#: inc/customizer/front-page/options-brands.php:43
+#: inc/customizer/front-page/options-services.php:43
+#: inc/customizer/front-page/options-team.php:46
+msgid "Section Headings"
+msgstr ""
+
+#: inc/customizer/front-page/options-brands.php:60
+#: sections/section-brands.php:9
+msgid "Trusted by 150+ companies"
+msgstr ""
+
+#: inc/customizer/front-page/options-brands.php:67
+#: inc/customizer/front-page/options-brands.php:133
+#: inc/customizer/front-page/options-cta.php:68
+#: inc/customizer/front-page/options-feedback.php:93
+#: inc/customizer/front-page/options-hero.php:199
+#: inc/customizer/front-page/options-latest-news.php:96
+#: inc/customizer/front-page/options-portfolios.php:100
+#: inc/customizer/front-page/options-portfolios.php:367
+#: inc/customizer/front-page/options-pricing.php:112
+#: inc/customizer/front-page/options-services.php:98
+#: inc/customizer/front-page/options-services.php:368
+#: inc/customizer/front-page/options-team.php:99
+#: inc/customizer/front-page/options-why.php:100
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/front-page/options-brands.php:98
+#: inc/customizer/sections-order/section-order.php:33
+msgid "Brand Logos"
+msgstr ""
+
+#: inc/customizer/front-page/options-brands.php:129
+msgid "Logos"
+msgstr ""
+
+#: inc/customizer/front-page/options-brands.php:137
+msgid "Upload Logo"
+msgstr ""
+
+#: inc/customizer/front-page/options-brands.php:141
+#: inc/customizer/front-page/options-portfolios.php:375
+#: inc/customizer/front-page/options-services.php:376
+msgid "Link"
+msgstr ""
+
+#: inc/customizer/front-page/options-brands.php:142
+#: inc/customizer/front-page/options-portfolios.php:376
+#: inc/customizer/front-page/options-services.php:377
+msgid "Example: https://yoursite.com"
+msgstr ""
+
+#: inc/customizer/front-page/options-brands.php:146
+#: inc/customizer/front-page/options-portfolios.php:380
+#: inc/customizer/front-page/options-services.php:381
+msgid "Open link in new tab"
+msgstr ""
+
+#: inc/customizer/front-page/options-brands.php:151
+msgid "logo"
+msgstr ""
+
+#: inc/customizer/front-page/options-brands.php:178
+msgid "Carousel Controls"
+msgstr ""
+
+#: inc/customizer/front-page/options-brands.php:201
+#: inc/customizer/front-page/options-feedback.php:604
+#: inc/customizer/front-page/options-feedback.php:627
+#: inc/customizer/front-page/options-latest-news.php:459
+#: inc/customizer/front-page/options-latest-news.php:484
+#: inc/customizer/front-page/options-team.php:777
+#: inc/customizer/front-page/options-team.php:802
+msgid "Enable Carousel?"
+msgstr ""
+
+#: inc/customizer/front-page/options-brands.php:202
+msgid "Turn On/Off the switch to enable/disable carousel"
+msgstr ""
+
+#: inc/customizer/front-page/options-brands.php:223
+#: inc/customizer/front-page/options-feedback.php:649
+#: inc/customizer/front-page/options-latest-news.php:506
+#: inc/customizer/front-page/options-team.php:824
+msgid "Carousel Autoplay?"
+msgstr ""
+
+#: inc/customizer/front-page/options-brands.php:224
+#: inc/customizer/front-page/options-feedback.php:650
+#: inc/customizer/front-page/options-latest-news.php:507
+#: inc/customizer/front-page/options-team.php:825
+msgid "Turn On/Off the switch to enable/disable carousel autoplay"
+msgstr ""
+
+#: inc/customizer/front-page/options-brands.php:247
+#: inc/customizer/front-page/options-feedback.php:673
+#: inc/customizer/front-page/options-latest-news.php:530
+#: inc/customizer/front-page/options-team.php:848
+msgid "Carousel Duration"
+msgstr ""
+
+#: inc/customizer/front-page/options-brands.php:248
+#: inc/customizer/front-page/options-feedback.php:674
+#: inc/customizer/front-page/options-latest-news.php:531
+#: inc/customizer/front-page/options-team.php:849
+msgid "Set the time in milisecond"
+msgstr ""
+
+#: inc/customizer/front-page/options-brands.php:275
+#: inc/customizer/front-page/options-feedback.php:701
+#: inc/customizer/front-page/options-latest-news.php:558
+#: inc/customizer/front-page/options-team.php:876
+msgid "Carousel Loop?"
+msgstr ""
+
+#: inc/customizer/front-page/options-brands.php:276
+#: inc/customizer/front-page/options-feedback.php:702
+#: inc/customizer/front-page/options-latest-news.php:559
+#: inc/customizer/front-page/options-team.php:877
+msgid "Turn On/Off the switch to enable/disable carousel loop"
+msgstr ""
+
+#: inc/customizer/front-page/options-brands.php:297
+#: inc/customizer/front-page/options-latest-news.php:580
+#: inc/customizer/front-page/options-team.php:898
+msgid "Show/hide Carousel Arrow?"
+msgstr ""
+
+#: inc/customizer/front-page/options-brands.php:298
+#: inc/customizer/front-page/options-feedback.php:724
+#: inc/customizer/front-page/options-latest-news.php:581
+#: inc/customizer/front-page/options-team.php:899
+msgid "Turn On/Off the switch to show/hide carousel nav"
+msgstr ""
+
+#: inc/customizer/front-page/options-brands.php:319
+#: inc/customizer/front-page/options-latest-news.php:602
+#: inc/customizer/front-page/options-team.php:920
+msgid "Show/hide Carousel Dots?"
+msgstr ""
+
+#: inc/customizer/front-page/options-brands.php:320
+#: inc/customizer/front-page/options-feedback.php:746
+#: inc/customizer/front-page/options-latest-news.php:603
+#: inc/customizer/front-page/options-team.php:921
+msgid "Turn On/Off the switch to show/hide carousel dots"
+msgstr ""
+
+#: inc/customizer/front-page/options-brands.php:343
+#: inc/customizer/front-page/options-feedback.php:770
+#: inc/customizer/front-page/options-latest-news.php:626
+#: inc/customizer/front-page/options-portfolios.php:615
+#: inc/customizer/front-page/options-pricing.php:295
+#: inc/customizer/front-page/options-services.php:914
+#: inc/customizer/front-page/options-team.php:945
+#: inc/customizer/front-page/options-why.php:319
+msgid "Section Style"
+msgstr ""
+
+#: inc/customizer/front-page/options-brands.php:367
+#: inc/customizer/front-page/options-feedback.php:483
+#: inc/customizer/front-page/options-feedback.php:794
+#: inc/customizer/front-page/options-latest-news.php:650
+#: inc/customizer/front-page/options-portfolios.php:638
+#: inc/customizer/front-page/options-pricing.php:199
+#: inc/customizer/front-page/options-pricing.php:319
+#: inc/customizer/front-page/options-team.php:627
+#: inc/customizer/front-page/options-team.php:969
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer/front-page/options-brands.php:391
+#: inc/customizer/front-page/options-cta.php:372
+#: inc/customizer/front-page/options-feedback.php:818
+#: inc/customizer/front-page/options-latest-news.php:674
+#: inc/customizer/front-page/options-portfolios.php:662
+#: inc/customizer/front-page/options-pricing.php:343
+#: inc/customizer/front-page/options-services.php:961
+#: inc/customizer/front-page/options-team.php:993
+#: inc/customizer/front-page/options-why.php:367
+msgid "Padding Top (px)"
+msgstr ""
+
+#: inc/customizer/front-page/options-brands.php:418
+#: inc/customizer/front-page/options-cta.php:399
+#: inc/customizer/front-page/options-feedback.php:845
+#: inc/customizer/front-page/options-latest-news.php:701
+#: inc/customizer/front-page/options-portfolios.php:689
+#: inc/customizer/front-page/options-pricing.php:370
+#: inc/customizer/front-page/options-services.php:988
+#: inc/customizer/front-page/options-team.php:1020
+#: inc/customizer/front-page/options-why.php:394
+msgid "Padding Bottom (px)"
+msgstr ""
+
+#: inc/customizer/front-page/options-cta.php:9
+#: inc/customizer/sections-order/section-order.php:39
+msgid "Call to Action"
+msgstr ""
+
+#: inc/customizer/front-page/options-cta.php:26
+msgid "Show/hide CTA Section"
+msgstr ""
+
+#: inc/customizer/front-page/options-cta.php:27
+msgid ""
+"Turn On/Off the switch to show/hide Call to Action section on front page."
+msgstr ""
+
+#: inc/customizer/front-page/options-cta.php:44
+#: inc/customizer/front-page/options-hero.php:92
+#: inc/customizer/front-page/options-why.php:45
+msgid "Content"
+msgstr ""
+
+#: inc/customizer/front-page/options-cta.php:62 sections/section-cta.php:11
+msgid ""
+"We are trusted by over 5000+ clients. Join them by using our services and "
+"grow your business."
+msgstr ""
+
+#: inc/customizer/front-page/options-cta.php:94 sections/section-cta.php:12
+msgid "Join Our Community"
+msgstr ""
+
+#: inc/customizer/front-page/options-cta.php:100
+#: inc/customizer/front-page/options-feedback.php:63
+#: inc/customizer/front-page/options-services.php:67
+#: inc/customizer/front-page/options-why.php:69
+msgid "Subtitle"
+msgstr ""
+
+#: inc/customizer/front-page/options-cta.php:131
+#: inc/customizer/front-page/options-feedback.php:123
+#: inc/customizer/front-page/options-hero.php:224
+#: inc/customizer/front-page/options-latest-news.php:126
+#: inc/customizer/front-page/options-portfolios.php:130
+#: inc/customizer/front-page/options-pricing.php:144
+#: inc/customizer/front-page/options-services.php:128
+#: inc/customizer/front-page/options-team.php:129
+#: inc/customizer/front-page/options-why.php:132
+#: inc/customizer/theme-options/options-offcanvas.php:39
+msgid "Description"
+msgstr ""
+
+#: inc/customizer/front-page/options-cta.php:156 sections/section-cta.php:17
+msgid "Join Us"
+msgstr ""
+
+#: inc/customizer/front-page/options-cta.php:162
+#: inc/customizer/front-page/options-hero.php:251
+#: inc/customizer/front-page/options-portfolios.php:536
+#: inc/customizer/theme-options/options-header.php:426
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer/front-page/options-cta.php:185
+#: inc/customizer/front-page/options-services.php:437
+msgid "Button URL"
+msgstr ""
+
+#: inc/customizer/front-page/options-cta.php:186
+#: inc/customizer/front-page/options-hero.php:283
+#: inc/customizer/front-page/options-portfolios.php:567
+#: inc/customizer/front-page/options-services.php:438
+msgid "Start with http:// or https://"
+msgstr ""
+
+#: inc/customizer/front-page/options-cta.php:208
+msgid "Button link open on new tab?"
+msgstr ""
+
+#: inc/customizer/front-page/options-cta.php:231
+#: inc/customizer/front-page/options-portfolios.php:437
+#: inc/customizer/front-page/options-services.php:536
+#: inc/customizer/theme-options/site-identity.php:58
+msgid "Style"
+msgstr ""
+
+#: inc/customizer/front-page/options-cta.php:255
+#: inc/customizer/front-page/options-hero.php:470
+msgid "Title Text Color"
+msgstr ""
+
+#: inc/customizer/front-page/options-cta.php:278
+msgid "Subtitle Text Color"
+msgstr ""
+
+#: inc/customizer/front-page/options-cta.php:301
+#: inc/customizer/front-page/options-hero.php:523
+msgid "Description Color"
+msgstr ""
+
+#: inc/customizer/front-page/options-cta.php:325
+msgid "Gradient Background 1"
+msgstr ""
+
+#: inc/customizer/front-page/options-cta.php:348
+msgid "Gradient Background 2"
+msgstr ""
+
+#: inc/customizer/front-page/options-feedback.php:4
+msgid "Feedback Section"
+msgstr ""
+
+#: inc/customizer/front-page/options-feedback.php:21
+msgid "Show/hide Feedback Section"
+msgstr ""
+
+#: inc/customizer/front-page/options-feedback.php:22
+msgid ""
+"Turn On/Off the switch to show/hide Feedback section on front page template"
+msgstr ""
+
+#: inc/customizer/front-page/options-feedback.php:39
+#: inc/customizer/front-page/options-latest-news.php:43
+#: inc/customizer/front-page/options-portfolios.php:45
+#: inc/customizer/front-page/options-pricing.php:58
+msgid "Section Heading"
+msgstr ""
+
+#: inc/customizer/front-page/options-feedback.php:56
+#: inc/customizer/sections-order/section-order.php:35
+#: sections/section-feedback.php:9
+msgid "Feedback"
+msgstr ""
+
+#: inc/customizer/front-page/options-feedback.php:86
+#: sections/section-feedback.php:10
+msgid "Kind Words from Our Valuable Clients."
+msgstr ""
+
+#: inc/customizer/front-page/options-feedback.php:94
+#: inc/customizer/front-page/options-latest-news.php:97
+#: inc/customizer/front-page/options-pricing.php:113
+#: inc/customizer/front-page/options-team.php:100
+msgid "Bold text should be surrounded by 'b' tag"
+msgstr ""
+
+#: inc/customizer/front-page/options-feedback.php:154
+msgid "Feedbacks"
+msgstr ""
+
+#: inc/customizer/front-page/options-feedback.php:180
+#: inc/customizer/front-page/options-feedback.php:234
+#: inc/customizer/front-page/options-latest-news.php:183
+#: inc/customizer/front-page/options-portfolios.php:186
+#: inc/customizer/front-page/options-portfolios.php:206
+#: inc/customizer/front-page/options-services.php:186
+#: inc/customizer/front-page/options-services.php:206
+#: inc/customizer/front-page/options-team.php:184
+#: inc/customizer/front-page/options-team.php:205
+msgid "Post Type"
+msgstr ""
+
+#: inc/customizer/front-page/options-feedback.php:184
+#: inc/customizer/front-page/options-feedback.php:238
+#: inc/customizer/front-page/options-hero.php:46
+#: inc/customizer/front-page/options-hero.php:66
+#: inc/customizer/front-page/options-portfolios.php:191
+#: inc/customizer/front-page/options-portfolios.php:211
+#: inc/customizer/front-page/options-services.php:191
+#: inc/customizer/front-page/options-services.php:211
+#: inc/customizer/front-page/options-team.php:188
+#: inc/customizer/front-page/options-team.php:209
+msgid "Page"
+msgstr ""
+
+#: inc/customizer/front-page/options-feedback.php:185
+#: inc/customizer/front-page/options-feedback.php:239
+#: inc/customizer/front-page/options-hero.php:47
+#: inc/customizer/front-page/options-hero.php:67
+#: inc/customizer/front-page/options-portfolios.php:190
+#: inc/customizer/front-page/options-portfolios.php:210
+#: inc/customizer/front-page/options-services.php:190
+#: inc/customizer/front-page/options-services.php:210
+#: inc/customizer/front-page/options-team.php:189
+#: inc/customizer/front-page/options-team.php:210
+msgid "Post"
+msgstr ""
+
+#: inc/customizer/front-page/options-feedback.php:186
+#: inc/customizer/front-page/options-hero.php:48
+#: inc/customizer/front-page/options-portfolios.php:192
+#: inc/customizer/front-page/options-services.php:192
+#: inc/customizer/front-page/options-team.php:190
+msgid "Custom Content"
+msgstr ""
+
+#: inc/customizer/front-page/options-feedback.php:209
+#: inc/customizer/front-page/options-feedback.php:261
+#: inc/customizer/front-page/options-portfolios.php:237
+#: inc/customizer/front-page/options-portfolios.php:260
+#: inc/customizer/front-page/options-services.php:235
+#: inc/customizer/front-page/options-team.php:233
+msgid "Total Items to Show"
+msgstr ""
+
+#: inc/customizer/front-page/options-feedback.php:210
+#: inc/customizer/front-page/options-feedback.php:262
+#: inc/customizer/front-page/options-latest-news.php:245
+#: inc/customizer/front-page/options-latest-news.php:267
+#: inc/customizer/front-page/options-portfolios.php:238
+#: inc/customizer/front-page/options-portfolios.php:261
+#: inc/customizer/front-page/options-services.php:236
+#: inc/customizer/front-page/options-team.php:234
+msgid "After changing default value please save and reload"
+msgstr ""
+
+#: inc/customizer/front-page/options-feedback.php:298
+#, php-format
+msgid "Review #%1$s"
+msgstr ""
+
+#: inc/customizer/front-page/options-feedback.php:300
+#, php-format
+msgid "Select a page for reviewer's #%1$s name, quote and picture"
+msgstr ""
+
+#: inc/customizer/front-page/options-feedback.php:325
+#, php-format
+msgid "Client #%1$s"
+msgstr ""
+
+#: inc/customizer/front-page/options-feedback.php:327
+#, php-format
+msgid "Select a post for reviewer's #%1$s name, quote and picture"
+msgstr ""
+
+#: inc/customizer/front-page/options-feedback.php:354
+#, php-format
+msgid "Client #%1$s designation"
+msgstr ""
+
+#: inc/customizer/front-page/options-feedback.php:386
+msgid "Reviewers"
+msgstr ""
+
+#: inc/customizer/front-page/options-feedback.php:390
+#: inc/customizer/front-page/options-team.php:463
+msgid "Name"
+msgstr ""
+
+#: inc/customizer/front-page/options-feedback.php:394
+#: inc/customizer/front-page/options-team.php:467
+msgid "Position"
+msgstr ""
+
+#: inc/customizer/front-page/options-feedback.php:398
+msgid "Quote"
+msgstr ""
+
+#: inc/customizer/front-page/options-feedback.php:402
+msgid "Upload Reviewer Image"
+msgstr ""
+
+#: inc/customizer/front-page/options-feedback.php:403
+msgid "Best image size is 300x300"
+msgstr ""
+
+#: inc/customizer/front-page/options-feedback.php:408
+msgid "Reviewer"
+msgstr ""
+
+#: inc/customizer/front-page/options-feedback.php:436
+msgid "Feedback Style"
+msgstr ""
+
+#: inc/customizer/front-page/options-feedback.php:460
+msgid "Show/hide Rating Stars"
+msgstr ""
+
+#: inc/customizer/front-page/options-feedback.php:462
+msgid "Turn On/Off the switch to show/hide rating stars"
+msgstr ""
+
+#: inc/customizer/front-page/options-feedback.php:507
+#: inc/customizer/front-page/options-team.php:651
+msgid "Border Color"
+msgstr ""
+
+#: inc/customizer/front-page/options-feedback.php:531
+#: inc/customizer/front-page/options-team.php:675
+msgid "Hover Background Color"
+msgstr ""
+
+#: inc/customizer/front-page/options-feedback.php:556
+#: inc/customizer/front-page/options-pricing.php:223
+#: inc/customizer/theme-options/options-footer.php:89
+#: inc/customizer/theme-options/options-footer.php:238
+msgid "Text Color"
+msgstr ""
+
+#: inc/customizer/front-page/options-feedback.php:581
+#: inc/customizer/front-page/options-latest-news.php:436
+#: inc/customizer/front-page/options-team.php:754
+msgid "Carousel Settings"
+msgstr ""
+
+#: inc/customizer/front-page/options-feedback.php:605
+#: inc/customizer/front-page/options-feedback.php:628
+msgid "Turn On/Off the switch to enable/disable review carousel"
+msgstr ""
+
+#: inc/customizer/front-page/options-feedback.php:723
+msgid "Show/hide Arrow?"
+msgstr ""
+
+#: inc/customizer/front-page/options-feedback.php:745
+msgid "Show/hide Dots?"
+msgstr ""
+
+#: inc/customizer/front-page/options-hero.php:9
+msgid "Hero Section"
+msgstr ""
+
+#: inc/customizer/front-page/options-hero.php:26
+msgid "Show/Hide Hero Section"
+msgstr ""
+
+#: inc/customizer/front-page/options-hero.php:27
+msgid "Turn On/Off the switch to show/hide hero section on front page template"
+msgstr ""
+
+#: inc/customizer/front-page/options-hero.php:42
+#: inc/customizer/front-page/options-hero.php:62
+msgid "Content Type"
+msgstr ""
+
+#: inc/customizer/front-page/options-hero.php:110
+msgid "Creative Agency"
+msgstr ""
+
+#: inc/customizer/front-page/options-hero.php:117
+#: inc/customizer/front-page/options-latest-news.php:67
+#: inc/customizer/front-page/options-portfolios.php:69
+#: inc/customizer/front-page/options-pricing.php:81
+#: inc/customizer/front-page/options-team.php:69
+msgid "Sub Title"
+msgstr ""
+
+#: inc/customizer/front-page/options-hero.php:147
+msgid "Select a Page for title, description and image"
+msgstr ""
+
+#: inc/customizer/front-page/options-hero.php:172
+msgid "Select a Post for title, description and image"
+msgstr ""
+
+#: inc/customizer/front-page/options-hero.php:192
+#: sections/section-hero.php:108
+msgid "Advanced Analytics to Grow Your Business."
+msgstr ""
+
+#: inc/customizer/front-page/options-hero.php:217
+#: sections/section-hero.php:109
+msgid ""
+"We handle home, auto, life, and business insurance for you so you have the "
+"time to focus on more important things."
+msgstr ""
+
+#: inc/customizer/front-page/options-hero.php:282
+#: inc/customizer/front-page/options-portfolios.php:566
+msgid "Button Link"
+msgstr ""
+
+#: inc/customizer/front-page/options-hero.php:307
+#: inc/customizer/front-page/options-portfolios.php:590
+#: inc/customizer/front-page/options-services.php:462
+msgid "Button open on new tab?"
+msgstr ""
+
+#: inc/customizer/front-page/options-hero.php:331
+msgid "Youtube video URL"
+msgstr ""
+
+#: inc/customizer/front-page/options-hero.php:356
+#: inc/customizer/front-page/options-portfolios.php:362
+msgid "Image"
+msgstr ""
+
+#: inc/customizer/front-page/options-hero.php:384
+msgid "Styles"
+msgstr ""
+
+#: inc/customizer/front-page/options-hero.php:409
+#: inc/customizer/front-page/options-services.php:767
+msgid "Title font size (px)"
+msgstr ""
+
+#: inc/customizer/front-page/options-hero.php:440
+msgid "Title line height (px)"
+msgstr ""
+
+#: inc/customizer/front-page/options-hero.php:494
+msgid "Description font size (px)"
+msgstr ""
+
+#: inc/customizer/front-page/options-hero.php:548
+msgid "Content Width(px)"
+msgstr ""
+
+#: inc/customizer/front-page/options-hero.php:578
+#: inc/customizer/front-page/options-why.php:343
+#: inc/customizer/theme-options/options-header.php:217
+msgid "Background"
+msgstr ""
+
+#: inc/customizer/front-page/options-home.php:8
+msgid "Front Page Settings"
+msgstr ""
+
+#: inc/customizer/front-page/options-latest-news.php:9
+msgid "Latest News Section"
+msgstr ""
+
+#: inc/customizer/front-page/options-latest-news.php:25
+msgid "Show/hide Latest News Section"
+msgstr ""
+
+#: inc/customizer/front-page/options-latest-news.php:26
+msgid "Turn On/Off the switch to show/hide latest news section on front page."
+msgstr ""
+
+#: inc/customizer/front-page/options-latest-news.php:60
+#: sections/section-latest-news.php:9
+msgid "From Blog"
+msgstr ""
+
+#: inc/customizer/front-page/options-latest-news.php:89
+#: sections/section-latest-news.php:10
+msgid "Read Some of Our Latest Insights"
+msgstr ""
+
+#: inc/customizer/front-page/options-latest-news.php:157
+#: inc/customizer/front-page/options-latest-news.php:187
+msgid "Latest Posts"
+msgstr ""
+
+#: inc/customizer/front-page/options-latest-news.php:188
+#: inc/customizer/front-page/options-latest-news.php:214
+msgid "Select Category"
+msgstr ""
+
+#: inc/customizer/front-page/options-latest-news.php:244
+#: inc/customizer/front-page/options-latest-news.php:266
+msgid "Total posts to Show"
+msgstr ""
+
+#: inc/customizer/front-page/options-latest-news.php:296
+msgid "Display Post Thumbnails?"
+msgstr ""
+
+#: inc/customizer/front-page/options-latest-news.php:297
+#: inc/customizer/theme-options/options-single.php:55
+msgid "Turn On/Off the switch to show/hide post thumbnail"
+msgstr ""
+
+#: inc/customizer/front-page/options-latest-news.php:319
+msgid "Display Post Excerpts?"
+msgstr ""
+
+#: inc/customizer/front-page/options-latest-news.php:320
+#: inc/customizer/theme-options/options-blog.php:144
+msgid "Turn On/Off the switch to show/hide post excerpts"
+msgstr ""
+
+#: inc/customizer/front-page/options-latest-news.php:343
+msgid "Display Category?"
+msgstr ""
+
+#: inc/customizer/front-page/options-latest-news.php:345
+#: inc/customizer/theme-options/options-blog.php:247
+msgid "Turn On/Off the switch to show/hide post category"
+msgstr ""
+
+#: inc/customizer/front-page/options-latest-news.php:366
+#: inc/customizer/theme-options/options-blog.php:261
+msgid "Display Date"
+msgstr ""
+
+#: inc/customizer/front-page/options-latest-news.php:367
+#: inc/customizer/theme-options/options-blog.php:263
+msgid "Turn On/Off the switch to show/hide post date"
+msgstr ""
+
+#: inc/customizer/front-page/options-latest-news.php:389
+#: inc/customizer/theme-options/options-blog.php:278
+msgid "Display Post Author"
+msgstr ""
+
+#: inc/customizer/front-page/options-latest-news.php:390
+#: inc/customizer/theme-options/options-blog.php:280
+msgid "Turn On/Off the switch to show/hide post author"
+msgstr ""
+
+#: inc/customizer/front-page/options-latest-news.php:412
+#: inc/customizer/theme-options/options-blog.php:294
+msgid "Display Comment Number"
+msgstr ""
+
+#: inc/customizer/front-page/options-latest-news.php:413
+#: inc/customizer/theme-options/options-blog.php:296
+msgid "Turn On/Off the switch to show/hide post comment number"
+msgstr ""
+
+#: inc/customizer/front-page/options-latest-news.php:460
+#: inc/customizer/front-page/options-latest-news.php:485
+msgid "Turn On/Off the switch to enable/disable news carousel"
+msgstr ""
+
+#: inc/customizer/front-page/options-portfolios.php:10
+msgid "Portfolio Section"
+msgstr ""
+
+#: inc/customizer/front-page/options-portfolios.php:27
+msgid "Show/hide Portfolio Section"
+msgstr ""
+
+#: inc/customizer/front-page/options-portfolios.php:28
+msgid "Turn On/Off the switch to show/hide portfolio section on front page."
+msgstr ""
+
+#: inc/customizer/front-page/options-portfolios.php:62
+#: sections/section-portfolios.php:9
+msgid "Our Projects"
+msgstr ""
+
+#: inc/customizer/front-page/options-portfolios.php:93
+#: sections/section-portfolios.php:10
+msgid "Let's Check Our Latest Work."
+msgstr ""
+
+#: inc/customizer/front-page/options-portfolios.php:160
+#: inc/customizer/front-page/options-portfolios.php:358
+#: inc/customizer/sections-order/section-order.php:36
+msgid "Portfolios"
+msgstr ""
+
+#: inc/customizer/front-page/options-portfolios.php:295
+#, php-format
+msgid "Select a page for portfolio #%1$s image, title and description"
+msgstr ""
+
+#: inc/customizer/front-page/options-portfolios.php:321
+#, php-format
+msgid "Select a Post for portfolio #%1$s image, title and description"
+msgstr ""
+
+#: inc/customizer/front-page/options-portfolios.php:371
+#: inc/customizer/front-page/options-services.php:372
+msgid "Descrition"
+msgstr ""
+
+#: inc/customizer/front-page/options-portfolios.php:385
+msgid "portfolio"
+msgstr ""
+
+#: inc/customizer/front-page/options-portfolios.php:413
+msgid "Portfolio Style"
+msgstr ""
+
+#: inc/customizer/front-page/options-portfolios.php:440
+msgid "Style One"
+msgstr ""
+
+#: inc/customizer/front-page/options-portfolios.php:441
+msgid "Style Two"
+msgstr ""
+
+#: inc/customizer/front-page/options-portfolios.php:463
+#: inc/customizer/front-page/options-services.php:611
+msgid "Text Alignment"
+msgstr ""
+
+#: inc/customizer/front-page/options-portfolios.php:466
+#: inc/customizer/front-page/options-services.php:614
+#: inc/customizer/theme-options/options-header.php:371
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/front-page/options-portfolios.php:467
+#: inc/customizer/front-page/options-services.php:615
+#: inc/customizer/theme-options/options-header.php:372
+msgid "Center"
+msgstr ""
+
+#: inc/customizer/front-page/options-portfolios.php:468
+#: inc/customizer/front-page/options-services.php:616
+#: inc/customizer/theme-options/options-header.php:373
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/front-page/options-portfolios.php:490
+msgid "Enable Lightbox?"
+msgstr ""
+
+#: inc/customizer/front-page/options-portfolios.php:491
+msgid "Turn On/Off the switch to show/hide large image on lightbox"
+msgstr ""
+
+#: inc/customizer/front-page/options-portfolios.php:512
+#: inc/customizer/front-page/options-services.php:562
+#: inc/customizer/front-page/options-services.php:587
+msgid "Link to detail page?"
+msgstr ""
+
+#: inc/customizer/front-page/options-portfolios.php:513
+msgid "Turn On/Off the switch to link/unlink the portfolio to its detail page"
+msgstr ""
+
+#: inc/customizer/front-page/options-portfolios.php:530
+#: sections/section-portfolios.php:212
+msgid "More Projects"
+msgstr ""
+
+#: inc/customizer/front-page/options-portfolios.php:713
+msgid "Portfolio Premium Features"
+msgstr ""
+
+#: inc/customizer/front-page/options-portfolios.php:721
+msgid "Buy premium addons for only $29"
+msgstr ""
+
+#: inc/customizer/front-page/options-pricing.php:9
+msgid "Pricing Section"
+msgstr ""
+
+#: inc/customizer/front-page/options-pricing.php:26
+msgid "Show/hide Pricing Section"
+msgstr ""
+
+#: inc/customizer/front-page/options-pricing.php:27
+msgid "Turn On/Off the switch to show/hide pricing section on front page."
+msgstr ""
+
+#: inc/customizer/front-page/options-pricing.php:43
+msgid ""
+"<h4 class=\"customizer-group-heading-message\">Add Plans</h4><p class="
+"\"customizer-group-heading-message\">After activating license, go to "
+"WordPrsss admin dashboard>Themereps Helper>Pricing Plans. Add your plans "
+"under it.</p>"
+msgstr ""
+
+#: inc/customizer/front-page/options-pricing.php:74
+msgid "Pricng Plan"
+msgstr ""
+
+#: inc/customizer/front-page/options-pricing.php:105
+#: sections/section-pricing.php:10
+msgid "Choose the best Package "
+msgstr ""
+
+#: inc/customizer/front-page/options-pricing.php:137
+#: sections/section-pricing.php:11
+msgid "Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+msgstr ""
+
+#: inc/customizer/front-page/options-pricing.php:175
+msgid "Active Plan Style"
+msgstr ""
+
+#: inc/customizer/front-page/options-pricing.php:198
+msgid "Active Plan"
+msgstr ""
+
+#: inc/customizer/front-page/options-pricing.php:247
+#: inc/customizer/theme-options/options-colors.php:256
+msgid "Button Text Color"
+msgstr ""
+
+#: inc/customizer/front-page/options-pricing.php:270
+msgid "Button Border Color"
+msgstr ""
+
+#: inc/customizer/front-page/options-services.php:10
+msgid "Service Section"
+msgstr ""
+
+#: inc/customizer/front-page/options-services.php:25
+msgid "Show/hide service section"
+msgstr ""
+
+#: inc/customizer/front-page/options-services.php:26
+msgid ""
+"Turn On/Off the switch to show/hide services section on front page template"
+msgstr ""
+
+#: inc/customizer/front-page/options-services.php:160
+#: inc/customizer/front-page/options-services.php:359
+#: inc/customizer/sections-order/section-order.php:32
+msgid "Services"
+msgstr ""
+
+#: inc/customizer/front-page/options-services.php:271
+#, php-format
+msgid "Service #%1$s"
+msgstr ""
+
+#: inc/customizer/front-page/options-services.php:273
+msgid ""
+"Select a icon from <a target=\"_blank\" href=\"https://themify.me/themify-"
+"icons\">Themify icons</a> and enter its class name. Example- ti-vector"
+msgstr ""
+
+#: inc/customizer/front-page/options-services.php:298
+#, php-format
+msgid "Select a page for Service #%1$s title and description"
+msgstr ""
+
+#: inc/customizer/front-page/options-services.php:324
+#, php-format
+msgid "Select a Post for Service #%1$s title and text"
+msgstr ""
+
+#: inc/customizer/front-page/options-services.php:363
+msgid "Icon"
+msgstr ""
+
+#: inc/customizer/front-page/options-services.php:364
+msgid ""
+"Select a  themify icons from https://themify.me/themify-icons and enter its "
+"class name. Example- ti-vector"
+msgstr ""
+
+#: inc/customizer/front-page/options-services.php:386
+msgid "service"
+msgstr ""
+
+#: inc/customizer/front-page/options-services.php:405
+msgid "all services"
+msgstr ""
+
+#: inc/customizer/front-page/options-services.php:412
+msgid "All Services Button Text"
+msgstr ""
+
+#: inc/customizer/front-page/options-services.php:488
+msgid "Service Style"
+msgstr ""
+
+#: inc/customizer/front-page/options-services.php:511
+#: inc/customizer/theme-options/options-blog.php:57
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer/front-page/options-services.php:514
+msgid "Layout One"
+msgstr ""
+
+#: inc/customizer/front-page/options-services.php:515
+msgid "Layout Two"
+msgstr ""
+
+#: inc/customizer/front-page/options-services.php:539
+msgid "Style 1- Icon Top"
+msgstr ""
+
+#: inc/customizer/front-page/options-services.php:540
+msgid "Style 2- Icon Left"
+msgstr ""
+
+#: inc/customizer/front-page/options-services.php:563
+#: inc/customizer/front-page/options-services.php:588
+msgid "Turn On/Off the switch to link/unlink the service to its detail page"
+msgstr ""
+
+#: inc/customizer/front-page/options-services.php:638
+msgid "Icon background color"
+msgstr ""
+
+#: inc/customizer/front-page/options-services.php:662
+msgid "Icon Container size"
+msgstr ""
+
+#: inc/customizer/front-page/options-services.php:689
+msgid "Icon box border radius"
+msgstr ""
+
+#: inc/customizer/front-page/options-services.php:716
+msgid "Icon font size (px)"
+msgstr ""
+
+#: inc/customizer/front-page/options-services.php:743
+msgid "Icon color"
+msgstr ""
+
+#: inc/customizer/front-page/options-services.php:793
+msgid "Title color"
+msgstr ""
+
+#: inc/customizer/front-page/options-services.php:816
+msgid "Description color"
+msgstr ""
+
+#: inc/customizer/front-page/options-services.php:839
+msgid "Arrow color"
+msgstr ""
+
+#: inc/customizer/front-page/options-services.php:862
+msgid "Background color"
+msgstr ""
+
+#: inc/customizer/front-page/options-services.php:886
+msgid "Padding (px)"
+msgstr ""
+
+#: inc/customizer/front-page/options-services.php:937
+msgid "Section Background"
+msgstr ""
+
+#: inc/customizer/front-page/options-team.php:9
+msgid "Team Section"
+msgstr ""
+
+#: inc/customizer/front-page/options-team.php:27
+msgid "Show/hide Team Section"
+msgstr ""
+
+#: inc/customizer/front-page/options-team.php:28
+msgid "Turn On/Off the switch to show/hide team section on front page."
+msgstr ""
+
+#: inc/customizer/front-page/options-team.php:62 sections/section-team.php:11
+msgid "Our Team"
+msgstr ""
+
+#: inc/customizer/front-page/options-team.php:92 sections/section-team.php:12
+msgid "All the Experienced Team Together."
+msgstr ""
+
+#: inc/customizer/front-page/options-team.php:159
+msgid "Team Members"
+msgstr ""
+
+#: inc/customizer/front-page/options-team.php:269
+#, php-format
+msgid "Member %1$s Info"
+msgstr ""
+
+#: inc/customizer/front-page/options-team.php:295
+#, php-format
+msgid "Select a page for member's #%1$s name, designation and picture"
+msgstr ""
+
+#: inc/customizer/front-page/options-team.php:320
+#, php-format
+msgid "Member #%1$s"
+msgstr ""
+
+#: inc/customizer/front-page/options-team.php:322
+#, php-format
+msgid "Select a post for member's #%1$s name, designation and picture"
+msgstr ""
+
+#: inc/customizer/front-page/options-team.php:348
+#, php-format
+msgid "Member #%1$s facebook link"
+msgstr ""
+
+#: inc/customizer/front-page/options-team.php:373
+#, php-format
+msgid "Member #%1$s twitter link"
+msgstr ""
+
+#: inc/customizer/front-page/options-team.php:398
+#, php-format
+msgid "Member #%1$s linkedin link"
+msgstr ""
+
+#: inc/customizer/front-page/options-team.php:423
+#, php-format
+msgid "Member #%1$s instagram link"
+msgstr ""
+
+#: inc/customizer/front-page/options-team.php:458
+msgid "Members"
+msgstr ""
+
+#: inc/customizer/front-page/options-team.php:471
+#: inc/customizer/front-page/options-why.php:294
+msgid "Upload Image"
+msgstr ""
+
+#: inc/customizer/front-page/options-team.php:475
+msgid "Facebook Link"
+msgstr ""
+
+#: inc/customizer/front-page/options-team.php:476
+msgid "Example: https://facebook.com/username"
+msgstr ""
+
+#: inc/customizer/front-page/options-team.php:480
+msgid "Twitter Link"
+msgstr ""
+
+#: inc/customizer/front-page/options-team.php:481
+msgid "Example: https://twitter.com/username"
+msgstr ""
+
+#: inc/customizer/front-page/options-team.php:485
+msgid "Linkedin Link"
+msgstr ""
+
+#: inc/customizer/front-page/options-team.php:486
+msgid "Example: https://linkedin.com/username"
+msgstr ""
+
+#: inc/customizer/front-page/options-team.php:490
+msgid "Instagram Link"
+msgstr ""
+
+#: inc/customizer/front-page/options-team.php:491
+msgid "Example: https://instagram.com/username"
+msgstr ""
+
+#: inc/customizer/front-page/options-team.php:496
+msgid "member"
+msgstr ""
+
+#: inc/customizer/front-page/options-team.php:523
+msgid "Memeber Style"
+msgstr ""
+
+#: inc/customizer/front-page/options-team.php:546
+msgid "Image Width (px)"
+msgstr ""
+
+#: inc/customizer/front-page/options-team.php:573
+msgid "Image Height (px)"
+msgstr ""
+
+#: inc/customizer/front-page/options-team.php:600
+msgid "Image Border Radisu (%)"
+msgstr ""
+
+#: inc/customizer/front-page/options-team.php:699
+msgid "Padding Top/Bottom (px)"
+msgstr ""
+
+#: inc/customizer/front-page/options-team.php:726
+msgid "Padding Left/Right (px)"
+msgstr ""
+
+#: inc/customizer/front-page/options-team.php:778
+#: inc/customizer/front-page/options-team.php:803
+msgid "Turn On/Off the switch to enable/disable team carousel"
+msgstr ""
+
+#: inc/customizer/front-page/options-why.php:10
+msgid "Why Choose Section"
+msgstr ""
+
+#: inc/customizer/front-page/options-why.php:27
+msgid "Show/hide Why Choose Section"
+msgstr ""
+
+#: inc/customizer/front-page/options-why.php:28
+msgid "Turn On/Off the switch to show/hide why choose section on front page."
+msgstr ""
+
+#: inc/customizer/front-page/options-why.php:63 sections/section-why.php:11
+msgid "Why Choose Us?"
+msgstr ""
+
+#: inc/customizer/front-page/options-why.php:94 sections/section-why.php:12
+msgid "We have a experience of marketing."
+msgstr ""
+
+#: inc/customizer/front-page/options-why.php:126 sections/section-why.php:13
+msgid ""
+"We are a team of marketing, experienced developers who are passionate about "
+"their work. Years of cooperation with both corporations and startups, helped "
+"us to build."
+msgstr ""
+
+#: inc/customizer/front-page/options-why.php:157 sections/section-why.php:19
+msgid "5"
+msgstr ""
+
+#: inc/customizer/front-page/options-why.php:163
+msgid "Counter 1 Number"
+msgstr ""
+
+#: inc/customizer/front-page/options-why.php:178 sections/section-why.php:20
+msgid "K+"
+msgstr ""
+
+#: inc/customizer/front-page/options-why.php:184
+msgid "Counter 1 Suffix"
+msgstr ""
+
+#: inc/customizer/front-page/options-why.php:199 sections/section-why.php:21
+msgid "Projects done"
+msgstr ""
+
+#: inc/customizer/front-page/options-why.php:205
+msgid "Counter 1 Title"
+msgstr ""
+
+#: inc/customizer/front-page/options-why.php:221 sections/section-why.php:23
+msgid "99"
+msgstr ""
+
+#: inc/customizer/front-page/options-why.php:227
+msgid "Counter 2 Number"
+msgstr ""
+
+#: inc/customizer/front-page/options-why.php:243 sections/section-why.php:24
+msgid "%"
+msgstr ""
+
+#: inc/customizer/front-page/options-why.php:249
+msgid "Counter 2 Suffix"
+msgstr ""
+
+#: inc/customizer/front-page/options-why.php:265 sections/section-why.php:25
+msgid "Satisfied customer"
+msgstr ""
+
+#: inc/customizer/front-page/options-why.php:271
+msgid "Counter 2 Title"
+msgstr ""
+
+#: inc/customizer/sections-order/section-order.php:12
+msgid "Section Order"
+msgstr ""
+
+#: inc/customizer/sections-order/section-order.php:27
+msgid "Sort Sections"
+msgstr ""
+
+#: inc/customizer/sections-order/section-order.php:31
+msgid "Hero Area"
+msgstr ""
+
+#: inc/customizer/sections-order/section-order.php:34
+msgid "Why Choose"
+msgstr ""
+
+#: inc/customizer/sections-order/section-order.php:37
+msgid "Team"
+msgstr ""
+
+#: inc/customizer/sections-order/section-order.php:38
+msgid "Pricing Plans"
+msgstr ""
+
+#: inc/customizer/sections-order/section-order.php:40
+msgid "Latest News"
+msgstr ""
+
+#: inc/customizer/sections-order/section-order.php:42
+msgid "Drag and drop to rearange. Click on eye icon to hide a specific section"
+msgstr ""
+
+#: inc/customizer/sections-order/section-order.php:59
+msgid ""
+"<h4 class=\"customizer-group-heading-message\">Drag &amp; Drop Section "
+"Orders</h4><p class=\"customizer-group-heading-message\">Install and upgrade "
+"the <a target=\"_blank\" href=\"https://wordpress.org/plugins/themereps-"
+"helper/\">Themereps Helper</a> plugin for full control over the frontpage "
+"SECTIONS ORDER! and for advanced styling</p>"
+msgstr ""
+
+#: inc/customizer/theme-options/options-blog.php:10
+msgid "Blog/Archive Settings"
+msgstr ""
+
+#: inc/customizer/theme-options/options-blog.php:26
+msgid "Blog Page Title"
+msgstr ""
+
+#: inc/customizer/theme-options/options-blog.php:41
+#: inc/customizer/theme-options/options-page.php:56
+msgid "Display Breadcrumb"
+msgstr ""
+
+#: inc/customizer/theme-options/options-blog.php:43
+msgid "Turn On/Off the switch to show/hide breadcrumb on blog page"
+msgstr ""
+
+#: inc/customizer/theme-options/options-blog.php:62
+#: inc/customizer/theme-options/options-page.php:36
+#: inc/customizer/theme-options/options-single.php:33
+msgid "Fullwidth"
+msgstr ""
+
+#: inc/customizer/theme-options/options-blog.php:66
+#: inc/customizer/theme-options/options-page.php:32
+#: inc/customizer/theme-options/options-single.php:29
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer/theme-options/options-blog.php:70
+#: inc/customizer/theme-options/options-page.php:40
+#: inc/customizer/theme-options/options-single.php:37
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer/theme-options/options-blog.php:86
+msgid "Grid Column"
+msgstr ""
+
+#: inc/customizer/theme-options/options-blog.php:87
+msgid "Select number of columns that you want to show on blog page. "
+msgstr ""
+
+#: inc/customizer/theme-options/options-blog.php:90
+msgid "Three Columns"
+msgstr ""
+
+#: inc/customizer/theme-options/options-blog.php:91
+msgid "Two Columns"
+msgstr ""
+
+#: inc/customizer/theme-options/options-blog.php:92
+msgid "Single Column"
+msgstr ""
+
+#: inc/customizer/theme-options/options-blog.php:107
+msgid "Grid Style"
+msgstr ""
+
+#: inc/customizer/theme-options/options-blog.php:110
+msgid "Masonry"
+msgstr ""
+
+#: inc/customizer/theme-options/options-blog.php:111
+msgid "Equal Height"
+msgstr ""
+
+#: inc/customizer/theme-options/options-blog.php:126
+msgid "Display Post Thumbnails."
+msgstr ""
+
+#: inc/customizer/theme-options/options-blog.php:128
+msgid "Turn On/Off the switch to show/hide post thumbnails on main blog page"
+msgstr ""
+
+#: inc/customizer/theme-options/options-blog.php:142
+msgid "Display Post Excerpts"
+msgstr ""
+
+#: inc/customizer/theme-options/options-blog.php:157
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/customizer/theme-options/options-blog.php:158
+msgid "Note: Min 1 & Max 50."
+msgstr ""
+
+#: inc/customizer/theme-options/options-blog.php:184
+msgid "Excerpt Suffix"
+msgstr ""
+
+#: inc/customizer/theme-options/options-blog.php:186
+msgid ""
+"Defines the three dots '[...]' that are appended automatically to excerpts."
+msgstr ""
+
+#: inc/customizer/theme-options/options-blog.php:207
+msgid "Display Read More Button?"
+msgstr ""
+
+#: inc/customizer/theme-options/options-blog.php:209
+msgid "Turn On/Off the switch to show/hide read more button"
+msgstr ""
+
+#: inc/customizer/theme-options/options-blog.php:223
+msgid "Read More Button Text"
+msgstr ""
+
+#: inc/customizer/theme-options/options-blog.php:245
+msgid "Display Category"
+msgstr ""
+
+#: inc/customizer/theme-options/options-blog.php:309
+msgid "Pagination Type"
+msgstr ""
+
+#: inc/customizer/theme-options/options-blog.php:313
+msgid "Default(Numeric)"
+msgstr ""
+
+#: inc/customizer/theme-options/options-blog.php:314
+msgid "Older/Newer"
+msgstr ""
+
+#: inc/customizer/theme-options/options-colors.php:6
+msgid "Color Settings"
+msgstr ""
+
+#: inc/customizer/theme-options/options-colors.php:24
+msgid "Theme Screen Colors"
+msgstr ""
+
+#: inc/customizer/theme-options/options-colors.php:40
+msgid "Primary Color"
+msgstr ""
+
+#: inc/customizer/theme-options/options-colors.php:56
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/customizer/theme-options/options-colors.php:73
+msgid "Body Text Color"
+msgstr ""
+
+#: inc/customizer/theme-options/options-colors.php:89
+msgid "Headings Color"
+msgstr ""
+
+#: inc/customizer/theme-options/options-colors.php:107
+msgid "Navigation Colors"
+msgstr ""
+
+#: inc/customizer/theme-options/options-colors.php:124
+msgid "Menu link color"
+msgstr ""
+
+#: inc/customizer/theme-options/options-colors.php:140
+msgid "Menu link hover color"
+msgstr ""
+
+#: inc/customizer/theme-options/options-colors.php:156
+msgid "Submenu Background"
+msgstr ""
+
+#: inc/customizer/theme-options/options-colors.php:172
+msgid "Submenu text color"
+msgstr ""
+
+#: inc/customizer/theme-options/options-colors.php:188
+msgid "Submenu hover text color"
+msgstr ""
+
+#: inc/customizer/theme-options/options-colors.php:207
+msgid "Button Colors"
+msgstr ""
+
+#: inc/customizer/theme-options/options-colors.php:222
+msgid "Button BG Color"
+msgstr ""
+
+#: inc/customizer/theme-options/options-colors.php:238
+msgid "Button Hover BG Color"
+msgstr ""
+
+#: inc/customizer/theme-options/options-colors.php:272
+msgid "Button Hover Text Color"
+msgstr ""
+
+#: inc/customizer/theme-options/options-colors.php:290
+msgid "Anchor Colors"
+msgstr ""
+
+#: inc/customizer/theme-options/options-colors.php:306
+msgid "Anchor Color"
+msgstr ""
+
+#: inc/customizer/theme-options/options-colors.php:322
+msgid "Anchor Hover Color"
+msgstr ""
+
+#: inc/customizer/theme-options/options-footer.php:6
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer/theme-options/options-footer.php:23
+msgid "Wigets Layout"
+msgstr ""
+
+#: inc/customizer/theme-options/options-footer.php:25
+msgid "Number footer columns to display."
+msgstr ""
+
+#: inc/customizer/theme-options/options-footer.php:31
+msgid "Disable footer widgets"
+msgstr ""
+
+#: inc/customizer/theme-options/options-footer.php:55
+msgid "Custom footer 1 column width"
+msgstr ""
+
+#: inc/customizer/theme-options/options-footer.php:55
+#, php-format
+msgid "Custom footer %s columns width"
+msgstr ""
+
+#: inc/customizer/theme-options/options-footer.php:57
+msgid ""
+"Enter int numbers and sum of them must smaller or equal 12, separated by \"+"
+"\""
+msgstr ""
+
+#: inc/customizer/theme-options/options-footer.php:73
+msgid "Title Color"
+msgstr ""
+
+#: inc/customizer/theme-options/options-footer.php:105
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer/theme-options/options-footer.php:129
+msgid "Link Hover Color"
+msgstr ""
+
+#: inc/customizer/theme-options/options-footer.php:154
+msgid "Background Color 1"
+msgstr ""
+
+#: inc/customizer/theme-options/options-footer.php:177
+msgid "Background Color 2"
+msgstr ""
+
+#: inc/customizer/theme-options/options-footer.php:197
+msgid "Copyright Info"
+msgstr ""
+
+#: inc/customizer/theme-options/options-footer.php:214
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/theme-options/options-global.php:7
+msgid "Global Settings"
+msgstr ""
+
+#: inc/customizer/theme-options/options-global.php:21
+msgid "Scroll Animation"
+msgstr ""
+
+#: inc/customizer/theme-options/options-global.php:23
+msgid "Turn On/Off the switch to show/hide scrolling animation."
+msgstr ""
+
+#: inc/customizer/theme-options/options-global.php:36
+msgid "Show/hide Preloader"
+msgstr ""
+
+#: inc/customizer/theme-options/options-global.php:38
+msgid "Turn On/Off the switch to show/hide preloader."
+msgstr ""
+
+#: inc/customizer/theme-options/options-global.php:52
+msgid "Preloader background"
+msgstr ""
+
+#: inc/customizer/theme-options/options-global.php:85
+msgid "Display ScrollUp Button"
+msgstr ""
+
+#: inc/customizer/theme-options/options-global.php:87
+msgid "Turn On/Off the switch to show/hide scrollup button."
+msgstr ""
+
+#: inc/customizer/theme-options/options-global.php:100
+msgid "Display Circular Cursor"
+msgstr ""
+
+#: inc/customizer/theme-options/options-global.php:102
+msgid "Turn On/Off the switch to show/hide circular cursor."
+msgstr ""
+
+#: inc/customizer/theme-options/options-global.php:117
+msgid "Social Profiles"
+msgstr ""
+
+#: inc/customizer/theme-options/options-global.php:118
+msgid "Add your social profile links."
+msgstr ""
+
+#: inc/customizer/theme-options/options-global.php:121
+msgid "Add Social URL"
+msgstr ""
+
+#: inc/customizer/theme-options/options-global.php:128
+msgid "<i class=\"ti-dribbble\"></i>"
+msgstr ""
+
+#: inc/customizer/theme-options/options-global.php:129
+msgid "<i class=\"ti-facebook\"></i>"
+msgstr ""
+
+#: inc/customizer/theme-options/options-global.php:130
+msgid "<i class=\"ti-flickr\"></i>"
+msgstr ""
+
+#: inc/customizer/theme-options/options-global.php:131
+msgid "<i class=\"ti-github\"></i>"
+msgstr ""
+
+#: inc/customizer/theme-options/options-global.php:132
+msgid "<i class=\"ti-instagram\"></i>"
+msgstr ""
+
+#: inc/customizer/theme-options/options-global.php:133
+msgid "<i class=\"ti-linkedin\"></i>"
+msgstr ""
+
+#: inc/customizer/theme-options/options-global.php:134
+msgid "<i class=\"ti-pinterest\"></i>"
+msgstr ""
+
+#: inc/customizer/theme-options/options-global.php:135
+msgid "<i class=\"ti-google\"></i>"
+msgstr ""
+
+#: inc/customizer/theme-options/options-global.php:136
+msgid "<i class=\"ti-reddit\"></i>"
+msgstr ""
+
+#: inc/customizer/theme-options/options-global.php:137
+msgid "<i class=\"ti-soundcloud\"></i>"
+msgstr ""
+
+#: inc/customizer/theme-options/options-global.php:138
+msgid "<i class=\"ti-stack-overflow\"></i>"
+msgstr ""
+
+#: inc/customizer/theme-options/options-global.php:139
+msgid "<i class=\"ti-tumblr\"></i>"
+msgstr ""
+
+#: inc/customizer/theme-options/options-global.php:140
+msgid "<i class=\"ti-twitter\"></i>"
+msgstr ""
+
+#: inc/customizer/theme-options/options-global.php:141
+msgid "<i class=\"ti-vimeo\"></i>"
+msgstr ""
+
+#: inc/customizer/theme-options/options-global.php:142
+msgid "<i class=\"ti-youtube\"></i>"
+msgstr ""
+
+#: inc/customizer/theme-options/options-global.php:153
+msgid "View available social icons"
+msgstr ""
+
+#: inc/customizer/theme-options/options-global.php:169
+msgid "Open Social URLs in new tab"
+msgstr ""
+
+#: inc/customizer/theme-options/options-header.php:6
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer/theme-options/options-header.php:24
+msgid "Header Topbar"
+msgstr ""
+
+#: inc/customizer/theme-options/options-header.php:40
+msgid "Show/hide Header Topbar"
+msgstr ""
+
+#: inc/customizer/theme-options/options-header.php:42
+msgid "Turn On/Off the switch to show/hide header topbar area."
+msgstr ""
+
+#: inc/customizer/theme-options/options-header.php:58
+#: inc/customizer/theme-options/options-header.php:346
+msgid "Container Width"
+msgstr ""
+
+#: inc/customizer/theme-options/options-header.php:61
+#: inc/customizer/theme-options/options-header.php:349
+msgid "Contained"
+msgstr ""
+
+#: inc/customizer/theme-options/options-header.php:62
+#: inc/customizer/theme-options/options-header.php:350
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer/theme-options/options-header.php:85
+msgid "Show/hide Phone Number?"
+msgstr ""
+
+#: inc/customizer/theme-options/options-header.php:87
+msgid "Turn On/Off the switch to show/hide phone number"
+msgstr ""
+
+#: inc/customizer/theme-options/options-header.php:102
+#: inc/customizer/theme-options/options-offcanvas.php:63
+msgid "(+123)-456-7890"
+msgstr ""
+
+#: inc/customizer/theme-options/options-header.php:108
+msgid "Your Phone"
+msgstr ""
+
+#: inc/customizer/theme-options/options-header.php:138
+msgid "Show/hide Email Address?"
+msgstr ""
+
+#: inc/customizer/theme-options/options-header.php:140
+msgid "Turn On/Off the switch to show/hide email address"
+msgstr ""
+
+#: inc/customizer/theme-options/options-header.php:156
+#: inc/customizer/theme-options/options-offcanvas.php:94
+msgid "help@kunty.com"
+msgstr ""
+
+#: inc/customizer/theme-options/options-header.php:162
+msgid "Your Email"
+msgstr ""
+
+#: inc/customizer/theme-options/options-header.php:192
+msgid "Show/hide Social Icons?"
+msgstr ""
+
+#: inc/customizer/theme-options/options-header.php:193
+#: inc/customizer/theme-options/options-offcanvas.php:162
+msgid "Add your social profile links going on- Theme Options>Global Settings"
+msgstr ""
+
+#: inc/customizer/theme-options/options-header.php:243
+msgid "Header Navigation"
+msgstr ""
+
+#: inc/customizer/theme-options/options-header.php:262
+msgid "Transparent Header?"
+msgstr ""
+
+#: inc/customizer/theme-options/options-header.php:264
+msgid "Turn On/Off the switch to enable/disable transparent header."
+msgstr ""
+
+#: inc/customizer/theme-options/options-header.php:278
+msgid "Header Background"
+msgstr ""
+
+#: inc/customizer/theme-options/options-header.php:302
+msgid "Header Sticky?"
+msgstr ""
+
+#: inc/customizer/theme-options/options-header.php:304
+msgid "Turn On/Off the switch to enable/disable header sticky."
+msgstr ""
+
+#: inc/customizer/theme-options/options-header.php:318
+msgid "Sticky Header Background"
+msgstr ""
+
+#: inc/customizer/theme-options/options-header.php:368
+msgid "Menu Position"
+msgstr ""
+
+#: inc/customizer/theme-options/options-header.php:392
+msgid "Display cart icon?"
+msgstr ""
+
+#: inc/customizer/theme-options/options-header.php:393
+msgid "Turn On/Off the switch to show/hide cart icon"
+msgstr ""
+
+#: inc/customizer/theme-options/options-header.php:411
+msgid "Display Button?"
+msgstr ""
+
+#: inc/customizer/theme-options/options-header.php:412
+msgid "Turn On/Off the switch to show/hide header button"
+msgstr ""
+
+#: inc/customizer/theme-options/options-header.php:452
+msgid "Button link"
+msgstr ""
+
+#: inc/customizer/theme-options/options-header.php:473
+msgid "Open button link in a new tab"
+msgstr ""
+
+#: inc/customizer/theme-options/options-misc.php:6
+msgid "Misc Settings"
+msgstr ""
+
+#: inc/customizer/theme-options/options-misc.php:24
+msgid "Container Width(px)"
+msgstr ""
+
+#: inc/customizer/theme-options/options-misc.php:49
+msgid "Button Border Radius"
+msgstr ""
+
+#: inc/customizer/theme-options/options-offcanvas.php:6
+msgid "Offcanvas Menu Settings"
+msgstr ""
+
+#: inc/customizer/theme-options/options-offcanvas.php:23
+msgid "Show/hide Offcanvas Menu"
+msgstr ""
+
+#: inc/customizer/theme-options/options-offcanvas.php:25
+msgid "Turn On/Off the switch to show/hide offcanvas menu."
+msgstr ""
+
+#: inc/customizer/theme-options/options-offcanvas.php:69
+msgid "Phone Number"
+msgstr ""
+
+#: inc/customizer/theme-options/options-offcanvas.php:100
+msgid "Email Address"
+msgstr ""
+
+#: inc/customizer/theme-options/options-offcanvas.php:160
+msgid "Show/hide Social Icons"
+msgstr ""
+
+#: inc/customizer/theme-options/options-page.php:11
+msgid "Page Settings"
+msgstr ""
+
+#: inc/customizer/theme-options/options-page.php:26
+#: inc/customizer/woocommerce/options-product-single.php:18
+msgid "Page Layout"
+msgstr ""
+
+#: inc/customizer/theme-options/options-page.php:27
+msgid ""
+"Page Layout, apply for all pages, exclude blog related pages and custom page "
+"templates."
+msgstr ""
+
+#: inc/customizer/theme-options/options-page.php:58
+msgid "Turn On/Off the switch to show/hide breadcrumb on page"
+msgstr ""
+
+#: inc/customizer/theme-options/options-page.php:71
+msgid "Display page comments."
+msgstr ""
+
+#: inc/customizer/theme-options/options-page.php:72
+msgid "Check/Uncheck this switch to show/hide comments on page"
+msgstr ""
+
+#: inc/customizer/theme-options/options-single.php:8
+msgid "Single Post Settings"
+msgstr ""
+
+#: inc/customizer/theme-options/options-single.php:24
+msgid "Post detail page layout"
+msgstr ""
+
+#: inc/customizer/theme-options/options-single.php:53
+msgid "Display post thumbnail"
+msgstr ""
+
+#: inc/customizer/theme-options/options-single.php:69
+msgid "Display dropcaps?."
+msgstr ""
+
+#: inc/customizer/theme-options/options-single.php:70
+msgid "Turn On/Off the switch to show/hide dropcaps letter"
+msgstr ""
+
+#: inc/customizer/theme-options/options-single.php:85
+msgid "Display post categories?."
+msgstr ""
+
+#: inc/customizer/theme-options/options-single.php:86
+msgid "Turn On/Off the switch to show/hide post categories"
+msgstr ""
+
+#: inc/customizer/theme-options/options-single.php:101
+msgid "Display post meta."
+msgstr ""
+
+#: inc/customizer/theme-options/options-single.php:102
+msgid "Turn On/Off the switch to show/hide post meta"
+msgstr ""
+
+#: inc/customizer/theme-options/options-single.php:117
+msgid "Display related posts"
+msgstr ""
+
+#: inc/customizer/theme-options/options-single.php:118
+msgid "Turn On/Off the switch to show/hide related posts"
+msgstr ""
+
+#: inc/customizer/theme-options/options-single.php:126
+#: template-parts/related-posts.php:19
+msgid "You May Also Like..."
+msgstr ""
+
+#: inc/customizer/theme-options/options-single.php:134
+msgid "Related Posts Title"
+msgstr ""
+
+#: inc/customizer/theme-options/options-single.php:163
+msgid "Display Related Posts By:"
+msgstr ""
+
+#: inc/customizer/theme-options/options-single.php:167
+msgid "Categories "
+msgstr ""
+
+#: inc/customizer/theme-options/options-single.php:168
+msgid "Tags"
+msgstr ""
+
+#: inc/customizer/theme-options/options-typography.php:7
+msgid "Typography Settings"
+msgstr ""
+
+#: inc/customizer/theme-options/options-typography.php:25
+msgid "Navigation Font Styles"
+msgstr ""
+
+#: inc/customizer/theme-options/options-typography.php:49
+#: inc/customizer/theme-options/options-typography.php:262
+msgid "Font Family"
+msgstr ""
+
+#: inc/customizer/theme-options/options-typography.php:70
+#: inc/customizer/theme-options/options-typography.php:188
+msgid "Font Size(px)"
+msgstr ""
+
+#: inc/customizer/theme-options/options-typography.php:100
+msgid "Submenu Font Family"
+msgstr ""
+
+#: inc/customizer/theme-options/options-typography.php:121
+msgid "Submenu Font Size(px)"
+msgstr ""
+
+#: inc/customizer/theme-options/options-typography.php:145
+msgid "Body Typography"
+msgstr ""
+
+#: inc/customizer/theme-options/options-typography.php:168
+msgid "Body Font Family"
+msgstr ""
+
+#: inc/customizer/theme-options/options-typography.php:213
+#: inc/customizer/theme-options/options-typography.php:284
+msgid "Line Height"
+msgstr ""
+
+#: inc/customizer/theme-options/options-typography.php:238
+msgid "Headings Typography (H1-H6)"
+msgstr ""
+
+#: inc/customizer/theme-options/options-typography.php:308
+msgid "H1 Font Size(px)"
+msgstr ""
+
+#: inc/customizer/theme-options/options-typography.php:331
+msgid "H2 Font Size(px)"
+msgstr ""
+
+#: inc/customizer/theme-options/options-typography.php:354
+msgid "H3 Font Size(px)"
+msgstr ""
+
+#: inc/customizer/theme-options/options-typography.php:377
+msgid "H4 Font Size(px)"
+msgstr ""
+
+#: inc/customizer/theme-options/options-typography.php:400
+msgid "H5 Font Size(px)"
+msgstr ""
+
+#: inc/customizer/theme-options/options-typography.php:423
+msgid "H6 Font Size(px)"
+msgstr ""
+
+#: inc/customizer/theme-options/site-identity.php:18
+msgid "Sticky Logo"
+msgstr ""
+
+#: inc/customizer/theme-options/site-identity.php:35
+msgid "Site Logo Options"
+msgstr ""
+
+#: inc/customizer/theme-options/site-identity.php:38
+msgid "Choose your preferred option."
+msgstr ""
+
+#: inc/customizer/theme-options/site-identity.php:40
+msgid "Display Site title only."
+msgstr ""
+
+#: inc/customizer/theme-options/site-identity.php:41
+msgid "Display site title & tagline."
+msgstr ""
+
+#: inc/customizer/theme-options/site-identity.php:42
+msgid "Display logo image only."
+msgstr ""
+
+#: inc/customizer/theme-options/site-identity.php:77
+msgid "Logo Image Width (px)"
+msgstr ""
+
+#: inc/customizer/theme-options/site-identity.php:108
+msgid "Logo Image Height (px)"
+msgstr ""
+
+#: inc/customizer/theme-options/site-identity.php:144
+msgid "Site Title Font Family"
+msgstr ""
+
+#: inc/customizer/theme-options/site-identity.php:166
+msgid "Site Title Font Size(px)"
+msgstr ""
+
+#: inc/customizer/theme-options/site-identity.php:190
+msgid "Site Title Color"
+msgstr ""
+
+#: inc/customizer/theme-options/site-identity.php:219
+msgid "Tagline Style"
+msgstr ""
+
+#: inc/customizer/theme-options/site-identity.php:242
+msgid "Tagline Font Family"
+msgstr ""
+
+#: inc/customizer/theme-options/site-identity.php:263
+msgid "Tagline Font Size"
+msgstr ""
+
+#: inc/customizer/theme-options/site-identity.php:287
+msgid "Tagline Color"
+msgstr ""
+
+#: inc/customizer/theme-options/theme-options.php:10
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/theme-options/theme-options.php:22
+#: inc/customizer/theme-options/theme-options.php:39
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer/upsell/options-upsell.php:10
+msgid "Buy Premium Version"
+msgstr ""
+
+#: inc/customizer/upsell/themeinfo.php:5
+msgid "★ Theme Info"
+msgstr ""
+
+#: inc/customizer/upsell/themeinfo.php:28
+msgid "Theme Details"
+msgstr ""
+
+#: inc/customizer/upsell/themeinfo.php:28
+#: inc/customizer/upsell/themeinfo.php:29
+#: inc/customizer/upsell/themeinfo.php:30
+#: inc/customizer/upsell/themeinfo.php:31
+msgid "Click Here"
+msgstr ""
+
+#: inc/customizer/upsell/themeinfo.php:29
+msgid "View Demo"
+msgstr ""
+
+#: inc/customizer/upsell/themeinfo.php:30
+msgid "Documentation"
+msgstr ""
+
+#: inc/customizer/upsell/themeinfo.php:31
+msgid "Support Forum"
+msgstr ""
+
+#: inc/customizer/upsell/themeinfo.php:43
+msgid "Premium Version"
+msgstr ""
+
+#: inc/customizer/upsell/themeinfo.php:57
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: inc/customizer/woocommerce/options-product-single.php:3
+msgid "Product Single"
+msgstr ""
+
+#: inc/customizer/woocommerce/options-product-single.php:22
+#: inc/customizer/woocommerce/options-shop.php:17
+msgid "Right sidebar"
+msgstr ""
+
+#: inc/customizer/woocommerce/options-product-single.php:23
+#: inc/customizer/woocommerce/options-shop.php:18
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/customizer/woocommerce/options-product-single.php:24
+#: inc/customizer/woocommerce/options-shop.php:19
+msgid "No sidebar"
+msgstr ""
+
+#: inc/customizer/woocommerce/options-product-single.php:38
+msgid "Show/hide Related products"
+msgstr ""
+
+#: inc/customizer/woocommerce/options-product-single.php:39
+msgid ""
+"Check/Uncheck this box to show/hide related products on single product page."
+msgstr ""
+
+#: inc/customizer/woocommerce/options-product-single.php:55
+msgid "Related products per row"
+msgstr ""
+
+#: inc/customizer/woocommerce/options-product-single.php:56
+msgid "How many related products should be shown per row?"
+msgstr ""
+
+#: inc/customizer/woocommerce/options-shop.php:13
+msgid "Shop Page Layout"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:386
+#: inc/tgm/class-tgm-plugin-activation.php:821
+#: inc/tgm/class-tgm-plugin-activation.php:2527
+#: inc/tgm/class-tgm-plugin-activation.php:3574
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:387
+#: inc/tgm/class-tgm-plugin-activation.php:3153
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:388
+#: inc/tgm/class-tgm-plugin-activation.php:2946
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:516
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:517
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:928
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:928
+#: inc/tgm/class-tgm-plugin-activation.php:931
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:931
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1115
+#: inc/tgm/class-tgm-plugin-activation.php:2942
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1976
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2267
+msgid "Required"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2270
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2286
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2289
+msgid "External Source"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2292
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2309
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2313
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2315
+msgid "Active"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2321
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2324
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2327
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2336
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2382
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2386
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2390
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2394
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2476
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2484
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2492
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2504
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2527
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2541
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2542
+msgid "Source"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2543
+msgid "Type"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2547
+msgid "Version"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2548
+msgid "Status"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2597
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2602
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2678
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2711
+msgid "Install"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2717
+msgid "Update"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2720
+msgid "Activate"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2751
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2753
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2794
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2796
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2902
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2928
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3152
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3492
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3495
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3497
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3501
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3503
+#: inc/tgm/class-tgm-plugin-activation.php:3511
+msgid "Show Details"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3503
+#: inc/tgm/class-tgm-plugin-activation.php:3511
+msgid "Hide Details"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3504
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3506
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3511
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3512
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3514
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: page-templates/template-contact.php:13
+msgid "Email"
+msgstr ""
+
+#: sections/section-feedback.php:84
+msgid "Web Designer"
+msgstr ""
+
+#: sections/section-pricing.php:9
+msgid "Priccing Plan"
+msgstr ""
+
+#: sections/section-services.php:11
+msgid "Our Included Services"
+msgstr ""
+
+#: sections/section-services.php:12
+msgid "What we offer "
+msgstr ""
+
+#: sections/section-services.php:13
+msgid "We helping client to create with our talented expert."
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:21 template-parts/content-search.php:63
+#: template-parts/content-single.php:65 template-parts/content.php:68
+#: template-parts/related-posts.php:82
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-single.php:53
+#, php-format
+msgid "Read More<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""

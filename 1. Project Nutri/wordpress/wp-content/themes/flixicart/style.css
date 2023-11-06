@@ -1,0 +1,345 @@
+/*
+Theme Name: FlixiCart
+Author: Themes Daddy
+Author URI: https://themesdaddy.com/
+Theme URI: https://themesdaddy.com/themes/flixicart-free/
+Description: Lightning Fast Speed & Responsive Theme. FlixiCart is a responsive and fully customizable theme to create any kind of websites. The advanced admin panel will enable you to customize it without any technical knowledge. This theme is lightweight, it will enable you to create almost any type of website such a blog, portfolio, acting and shooting industry, total trendy news, newspaper, mega magazine, fashion, dark themes, petcare, animals wildlife, wooden architecture, plumbing contractor, painting estate, interior design, rooms furniture, home decoration, green floral nature, construction, corporate, multiple agency, business promotion, dark variation, industries, Beauty & spa salons, photography, gym, fitness, health, medical, startups, business agencies, law firms, travel, NGO, charity, yoga, kids education, training institute, university portal, restaurant, meta shop, quick magazines, mutual fund, finance, accounting, consulting ,travel agency website. Theme is fully compatible with popular WordPress plugins like Elementor Page Builder, Slider, Carousal, Beaver Builder, Brizy, Visual Composer, Divi, SiteOrigin, Gutenberg, Block-Enabled, WooCommerce, WPML, Yoast SEO, Shortcode, Jetpack, Contact Form 7, Mailchimp for WordPress, bbPress, Demo Importer, WPForms and more. Your WordPress website will never be let down with this theme. 
+Tags: one-column, two-columns, right-sidebar, flexible-header, custom-background, custom-header, custom-menu, editor-style, featured-images, footer-widgets, post-formats, theme-options, threaded-comments, rtl-language-support, translation-ready, full-width-template, custom-logo, blog, e-commerce, portfolio
+Version: 1.0.1
+Tested up to: 6.3
+Requires PHP: 5.4
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License: GNU General Public License v2 or later
+Text Domain: flixicart
+Slug: flixicart
+Template: flixita
+*/
+
+
+:root {
+    --bs-primary: #8bd321;
+    --bs-primary-dark:#639e0b;
+    --bs-primary-light: #a7e34f57;
+    --bs-primary-shadow:rgb(0 123 255 / 0.5);
+    --bs-secondary:#01012f;
+    --bs-secondary-dark: #000000; 
+}
+
+
+.flixicart-theme .middle-header .main-menu-right ul {
+    justify-content: flex-end;
+}
+
+.flixicart-theme .navigation-wrapper {
+    background-color: var(--bs-primary);
+    color: var(--bs-white);
+}
+
+.flixicart-theme .main-navigation {
+    min-height: 52px;
+}
+
+.flixicart-theme .main-navbar:not(.breadcrumb-menu) .main-menu > li > a{
+    line-height: 3.25rem;
+}
+
+.flixicart-theme .navigation-wrapper .main-menu-right > ul > li {
+    min-height: 3.25rem;
+}
+
+.flixicart-theme .main-navbar .main-menu > li.menu-item > a:after {
+    background: var(--bs-white) none repeat scroll 0 0;
+    content: "";
+    height: 100%;
+    left: 0;
+    opacity: .1;
+    -moz-opacity: 0.1;
+    -khtml-opacity: 0.1;
+    -webkit-opacity: 0.1;
+    position: absolute;
+    top: 0;
+    width: 0;
+    transition: .5s ease-in-out;
+}
+
+.flixicart-theme .main-navbar .main-menu > li:hover > a,
+.flixicart-theme .main-navbar .main-menu > li > a:focus,
+.flixicart-theme .main-navbar .main-menu > li.active > a  {
+    background: var(--bs-secondary);
+	color: var(--bs-white);
+}
+
+.flixicart-theme .main-navbar .main-menu > li:hover > a:after,
+.flixicart-theme .main-navbar .main-menu > li:focus > a:after,
+.flixicart-theme .main-navbar .main-menu > li.active > a:after {
+    width: 100%;
+}
+
+.flixicart-theme .main-header .head-wishlist-wrapper > a,
+.flixicart-theme .main-header .head-compare-wrapper > a,
+.flixicart-theme .main-header .header-account-wrapper > a{
+    color: var(--bs-white);
+    background: var(--bs-primary);
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    cursor: pointer;
+    line-height: 2.25;
+    padding: 0;
+    border-radius: 6.25rem;
+    border: 1px solid transparent;
+	min-height: 2.25rem;
+}
+
+.flixicart-theme .main-header .head-wishlist-wrapper > a:hover,
+.flixicart-theme .main-header .head-wishlist-wrapper > a:focus,
+.flixicart-theme .main-header .head-compare-wrapper > a:hover,
+.flixicart-theme .main-header .head-compare-wrapper > a:focus,
+.flixicart-theme .main-header .header-account-wrapper > a:hover,
+.flixicart-theme .main-header .header-account-wrapper > a:focus{
+    color: var(--bs-white);
+    background: var(--bs-secondary);
+}
+
+
+.flixicart-theme .main-header .head-wishlist-wrapper > a i, 
+.flixicart-theme .main-header .head-compare-wrapper > a i,
+.flixicart-theme .main-header .header-account-wrapper > a i {
+    display: inline-block;
+    color: inherit;
+    vertical-align: middle;
+    font-size: 22px;
+	line-height: 2.25rem;
+}
+
+.flixicart-theme .main-header .header-search-active .header-search-popup, 
+.flixicart-theme .main-header .header-search-active .header-search-close,
+.flixicart-theme .main-header .header-search-active .header-search-popup form {
+    z-index: 1;
+}
+
+.browse-cat-main-btn {
+    background-color: var(--bs-secondary);
+    color: var(--bs-white);
+	border-radius: unset;
+	padding: 0.688rem 1.075rem;
+}
+
+
+.browse-cat-wrap, .browse-cat-menu-wrap {
+    position: relative;
+    z-index: 1;
+}
+
+.browse-cat-menu-wrap .browse-cat-menu-wrap-list {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    height: auto;
+    z-index: 0;
+	--duration: 0.5s;
+    --easing: ease-in-out;
+}
+
+.browse-cat-menu-wrap-list ul.main-menu {
+    background-color: var(--bs-secondary);
+    margin-top: 13px;
+}
+
+.browse-cat-menu-wrap-list ul.main-menu a {
+    color: var(--bs-white);
+}
+
+
+.browse-cat-menu-wrap-list ul.main-menu a:hover,
+.browse-cat-menu-wrap-list ul.main-menu a:focus {
+    color: var(--bs-primary);
+}
+
+.browse-cat-menu-wrap-list ul.main-menu a:before{
+	border-bottom: 1px solid rgba(255,255,255,.07);
+    bottom: 0;
+    content: "";
+    left: 0;
+    margin: 0 auto;
+    position: absolute;
+    right: 0;
+    width: 90%;
+}	
+
+.browse-cat-menu-wrap .main-menu:before {
+    content: "\f0d7";
+    font-family: var(--bs-font-awesome);
+    font-weight: 900;
+    position: absolute;
+    top: 2px;
+    left: 15%;
+    font-size: 35px;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    color: var(--bs-secondary);
+}
+
+
+.flixicart-theme .main-menu-right > ul .button-area .btn {
+    border-radius: 0;
+    text-decoration: none;
+}
+
+.flixicart-theme .slider-section {
+    background-color: var(--bs-white);
+}	
+
+
+.flixicart-theme .main-content h4 {
+    padding: 5px 10px;
+    border-radius: 0px;
+    background: var(--bs-primary);
+    font-size: 1.2rem;
+    border: none;
+}
+
+.flixicart-theme .main-content h4:before{
+	display:none;
+}
+
+.flixicart-theme .home-slider div.owl-nav button[class*=owl-] {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 32px;
+}
+
+.flixicart-theme .home-slider .owl-nav button[class*=owl-]:hover {
+    width: 41px;
+}
+
+.flixicart-theme .slider-grid-banner {
+    min-height: 205px;
+    max-height: 205px;
+    position: relative;
+    overflow: hidden;
+    z-index: 0;
+	margin-bottom:8px;
+}
+
+.flixicart-theme .slider-grid-banner img {
+    min-height: 202px;
+    max-height: 202px;
+	width: 100%;
+    object-fit: cover;
+}
+.flixicart-theme .banner-slider-info {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 29px 15px;
+    margin: auto;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-content: flex-start;
+    text-align: left;
+    overflow: hidden;
+    background-color: rgba(255, 255, 255, 0.05);
+    z-index: 0;
+	color:var(--bs-white);
+}
+
+.flixicart-theme .slider-banner-content{
+	z-index:1;
+}
+.flixicart-theme .banner-slider-info:after {
+    content: '';
+    pointer-events: none;
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    -webkit-transition: all 0.5s ease-out 0s;
+    transition: all 0.5s ease-out 0s;
+    background: rgba(0, 0, 0, 0.75);
+}
+
+.flixicart-theme .banner-badge {
+    margin-left: 5px;
+    background-color: var(--bs-primary);
+    color: var(--bs-white);
+    position: relative;
+    font-size: 1rem;
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 0.4rem;
+}
+ 
+
+.flixicart-theme .slider-section {
+    padding-top: 1rem;
+}
+
+.flixicart-theme .slider-section + .info-section {
+    padding-top: 1rem;
+}
+
+.flixicart-theme .home-slider .btn, 
+.flixicart-theme .slider-grid-banner .btn {
+    padding: 0.32rem 0.8rem;
+}
+
+.flixicart-theme .info-section .bubble-shot {
+    display: none;
+}
+
+
+.flixicart-theme #product-section {
+    background: var(--bs-gray);
+}
+
+.flixicart-theme .header-search-active .header-search-popup, 
+.flixicart-theme .header-search-active .header-search-close, 
+.flixicart-theme .header-search-active .header-search-popup form {
+    z-index: 1;
+}
+
+@media (min-width: 992px){
+	.flixicart-theme .main-slider div.main-content {
+		margin-top: 6rem;
+	}
+	.flixicart-theme .slider-section .col-lg-9,
+	.flixicart-theme .slider-section .col-lg-3	{
+		padding-right: 0px;
+	}
+	
+	.flixicart-theme .slider-section .col-lg-3 .slider-grid-banner:not(:last-child) {
+		margin-bottom: 10px;
+	}
+
+	.flixicart-theme .home-slider, 
+	.flixicart-theme .home-slider .owl-item img {
+		min-height: 420px;
+		max-height: 420px;
+		object-fit: cover;
+	}
+	.flixicart-theme .main-content h1 {
+		font-size: 2.5rem;
+		margin-bottom: 0.5rem;
+	}
+
+	.flixicart-theme .slider-section + .info-section {
+		margin-top: 0;
+	}
+}
+
+@media (max-width: 991px){
+	.home-slider {
+		margin-bottom: 0.6em;
+	}
+}

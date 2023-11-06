@@ -1,0 +1,33 @@
+.control-section-prime-charity-trust h3.accordion-section-title {
+  font-size: 12px !important;
+  color: #F1A91C !important;
+  border: none !important;
+  background: #000 !important;
+  text-transform: uppercase;
+}
+a.button.button-secondary.alignright {
+  color: #29233d;
+  box-shadow: none;
+  font-weight: bold;
+  padding: 1px 10px;
+  font-size: 12px !important;
+  border-radius: 2px;
+  border: 1px solid #29233d;
+  float: none;
+}
+a.button.button-secondary.alignright:hover {
+  background: #29233d;
+  color: #fff;
+}
+li#accordion-section-prime_charity_trust_button_link {
+  background: #fff;
+  border-bottom: 1px solid #ddd !important;
+}
+a.button_link {
+  margin-left: 20px;
+  background: #F1A91C;
+  color: #fff;
+  padding: 6px;
+  text-decoration: none;
+  border-radius: 5px;
+}

@@ -1,0 +1,87 @@
+/*
+Theme Name: Express Store
+Theme URI: https://sellerthemes.com/express-store-free
+Author: Seller Themes
+Author URI: https://sellerthemes.com/
+Description: Express Store is the ultimate ecommerce multipurpose WordPress theme for online stores. Whether you're selling clothing, electronics, garments, furniture, gadgets, beauty products & all types of store/website. With Express Store, you can create a stunning and professional looking online store in just a few clicks, It offers a customizable design, mobile-friendly interface, SEO optimization, Fully WooCommerce integration, one-click demo import, and fast loading times. Try Express Store to create a stunning online store. Unlock all premium features. Visit Express Store premium demo. https://preview.sellerthemes.com/pro/express-store
+Template: retailsy
+Version: 1.5
+Tested up to: 6.2
+Requires PHP: 5.6
+License: GPLv3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: express-store
+Slug: express-store
+Tags: one-column, two-columns, right-sidebar, flexible-header, custom-background, custom-colors, custom-header, custom-menu,  custom-logo, featured-image-header, featured-images, footer-widgets, full-width-template, sticky-post, theme-options, threaded-comments, translation-ready, blog, e-commerce, portfolio, editor-style, grid-layout
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+*/
+
+
+/*** Header Section ***/
+.header-two .product-category-btn {
+	padding: 0;
+	overflow: unset;
+}
+
+.header-two .product-category-btn .fa.fa-spinner.active{
+	right: -17px;
+}
+
+.menubar {
+	margin-left: 40px;
+}
+
+/*** Slider ***/
+
+.banner.no_slider.banner2 .banner-text-section>div.banner-main-content {
+    color: #ffffff;
+}
+
+.banner.no_slider.banner2 .page2-image-slider img{
+	margin: auto;
+	width: 50%;
+}
+
+.sec3feature>div:first-of-type {
+    order: 1;
+}
+
+.home1 .banner {
+    background-color: rgb(var(--color-primary));
+}
+
+.navigator-wrapper {
+    border-bottom: 1px solid #101f36;
+}
+
+.product-category-menus-list ul.main-menu {
+	display: none;
+}
+
+.wp-block-verse {
+	padding: 10px;
+}
+
+.wp-block-calendar .wp-calendar-nav {
+	position: relative;
+	top: 0;
+	left: 0;
+	width: 100%;
+}
+
+.wc-block-cart .wp-block-woocommerce-cart-order-summary-block .wc-block-cart__totals-title {
+	font-size: 24px;
+	line-height: 34px;
+	text-transform: capitalize;
+	margin-bottom: 15px;
+}
+
+.sidebar .widget .wp-block-group .wp-block-latest-comments,
+.sidebar .widget .wp-block-group .wp-block-loginout,
+.sidebar .widget .wp-block-group .wp-block-table,
+.sidebar .widget .wp-block-group .wp-block-buttons {
+	padding: 1.563rem 1.000rem 1.563rem;
+}

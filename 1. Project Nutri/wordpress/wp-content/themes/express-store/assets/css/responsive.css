@@ -1,0 +1,20 @@
+@media (min-width: 420px){
+	.banner.banner2 .jcs-row>div:nth-child(1) {
+		flex: 100%;
+	}
+}
+@media (min-width: 768px){
+	 .banner.no_slider.banner2 .page2-image-slider img {
+		width: auto;
+	}
+	
+	.banner.banner2 .jcs-row>div:nth-child(1) {
+		flex: 1;
+	}
+}
+
+@media only screen and (min-width: 992px) {
+  .header h4.site-title {
+    color: #000000;
+  }
+}
